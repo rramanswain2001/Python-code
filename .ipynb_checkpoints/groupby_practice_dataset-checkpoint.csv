@@ -1,0 +1,101 @@
+order_id,customer_id,customer_city,product_category,order_date,quantity,unit_price,payment_method,total_amount
+1001,C100,Delhi,Electronics,2024-01-01,1,500,UPI,500
+1002,C101,Mumbai,Clothing,2024-01-02,2,1200,Credit Card,2400
+1003,C102,Bangalore,Grocery,2024-01-03,3,300,Debit Card,900
+1004,C103,Hyderabad,Furniture,2024-01-04,4,800,Cash,3200
+1005,C104,Chennai,Electronics,2024-01-05,5,500,UPI,2500
+1006,C105,Delhi,Clothing,2024-01-06,1,1200,Credit Card,1200
+1007,C106,Mumbai,Grocery,2024-01-07,2,300,Debit Card,600
+1008,C107,Bangalore,Furniture,2024-01-08,3,800,Cash,2400
+1009,C108,Hyderabad,Electronics,2024-01-09,4,500,UPI,2000
+1010,C109,Chennai,Clothing,2024-01-10,5,1200,Credit Card,6000
+1011,C110,Delhi,Grocery,2024-01-11,1,300,Debit Card,300
+1012,C111,Mumbai,Furniture,2024-01-12,2,800,Cash,1600
+1013,C112,Bangalore,Electronics,2024-01-13,3,500,UPI,1500
+1014,C113,Hyderabad,Clothing,2024-01-14,4,1200,Credit Card,4800
+1015,C114,Chennai,Grocery,2024-01-15,5,300,Debit Card,1500
+1016,C115,Delhi,Furniture,2024-01-16,1,800,Cash,800
+1017,C116,Mumbai,Electronics,2024-01-17,2,500,UPI,1000
+1018,C117,Bangalore,Clothing,2024-01-18,3,1200,Credit Card,3600
+1019,C118,Hyderabad,Grocery,2024-01-19,4,300,Debit Card,1200
+1020,C119,Chennai,Furniture,2024-01-20,5,800,Cash,4000
+1021,C100,Delhi,Electronics,2024-01-21,1,500,UPI,500
+1022,C101,Mumbai,Clothing,2024-01-22,2,1200,Credit Card,2400
+1023,C102,Bangalore,Grocery,2024-01-23,3,300,Debit Card,900
+1024,C103,Hyderabad,Furniture,2024-01-24,4,800,Cash,3200
+1025,C104,Chennai,Electronics,2024-01-25,5,500,UPI,2500
+1026,C105,Delhi,Clothing,2024-01-26,1,1200,Credit Card,1200
+1027,C106,Mumbai,Grocery,2024-01-27,2,300,Debit Card,600
+1028,C107,Bangalore,Furniture,2024-01-28,3,800,Cash,2400
+1029,C108,Hyderabad,Electronics,2024-01-29,4,500,UPI,2000
+1030,C109,Chennai,Clothing,2024-01-30,5,1200,Credit Card,6000
+1031,C110,Delhi,Grocery,2024-01-31,1,300,Debit Card,300
+1032,C111,Mumbai,Furniture,2024-02-01,2,800,Cash,1600
+1033,C112,Bangalore,Electronics,2024-02-02,3,500,UPI,1500
+1034,C113,Hyderabad,Clothing,2024-02-03,4,1200,Credit Card,4800
+1035,C114,Chennai,Grocery,2024-02-04,5,300,Debit Card,1500
+1036,C115,Delhi,Furniture,2024-02-05,1,800,Cash,800
+1037,C116,Mumbai,Electronics,2024-02-06,2,500,UPI,1000
+1038,C117,Bangalore,Clothing,2024-02-07,3,1200,Credit Card,3600
+1039,C118,Hyderabad,Grocery,2024-02-08,4,300,Debit Card,1200
+1040,C119,Chennai,Furniture,2024-02-09,5,800,Cash,4000
+1041,C100,Delhi,Electronics,2024-02-10,1,500,UPI,500
+1042,C101,Mumbai,Clothing,2024-02-11,2,1200,Credit Card,2400
+1043,C102,Bangalore,Grocery,2024-02-12,3,300,Debit Card,900
+1044,C103,Hyderabad,Furniture,2024-02-13,4,800,Cash,3200
+1045,C104,Chennai,Electronics,2024-02-14,5,500,UPI,2500
+1046,C105,Delhi,Clothing,2024-02-15,1,1200,Credit Card,1200
+1047,C106,Mumbai,Grocery,2024-02-16,2,300,Debit Card,600
+1048,C107,Bangalore,Furniture,2024-02-17,3,800,Cash,2400
+1049,C108,Hyderabad,Electronics,2024-02-18,4,500,UPI,2000
+1050,C109,Chennai,Clothing,2024-02-19,5,1200,Credit Card,6000
+1051,C110,Delhi,Grocery,2024-02-20,1,300,Debit Card,300
+1052,C111,Mumbai,Furniture,2024-02-21,2,800,Cash,1600
+1053,C112,Bangalore,Electronics,2024-02-22,3,500,UPI,1500
+1054,C113,Hyderabad,Clothing,2024-02-23,4,1200,Credit Card,4800
+1055,C114,Chennai,Grocery,2024-02-24,5,300,Debit Card,1500
+1056,C115,Delhi,Furniture,2024-02-25,1,800,Cash,800
+1057,C116,Mumbai,Electronics,2024-02-26,2,500,UPI,1000
+1058,C117,Bangalore,Clothing,2024-02-27,3,1200,Credit Card,3600
+1059,C118,Hyderabad,Grocery,2024-02-28,4,300,Debit Card,1200
+1060,C119,Chennai,Furniture,2024-02-29,5,800,Cash,4000
+1061,C100,Delhi,Electronics,2024-03-01,1,500,UPI,500
+1062,C101,Mumbai,Clothing,2024-03-02,2,1200,Credit Card,2400
+1063,C102,Bangalore,Grocery,2024-03-03,3,300,Debit Card,900
+1064,C103,Hyderabad,Furniture,2024-03-04,4,800,Cash,3200
+1065,C104,Chennai,Electronics,2024-03-05,5,500,UPI,2500
+1066,C105,Delhi,Clothing,2024-03-06,1,1200,Credit Card,1200
+1067,C106,Mumbai,Grocery,2024-03-07,2,300,Debit Card,600
+1068,C107,Bangalore,Furniture,2024-03-08,3,800,Cash,2400
+1069,C108,Hyderabad,Electronics,2024-03-09,4,500,UPI,2000
+1070,C109,Chennai,Clothing,2024-03-10,5,1200,Credit Card,6000
+1071,C110,Delhi,Grocery,2024-03-11,1,300,Debit Card,300
+1072,C111,Mumbai,Furniture,2024-03-12,2,800,Cash,1600
+1073,C112,Bangalore,Electronics,2024-03-13,3,500,UPI,1500
+1074,C113,Hyderabad,Clothing,2024-03-14,4,1200,Credit Card,4800
+1075,C114,Chennai,Grocery,2024-03-15,5,300,Debit Card,1500
+1076,C115,Delhi,Furniture,2024-03-16,1,800,Cash,800
+1077,C116,Mumbai,Electronics,2024-03-17,2,500,UPI,1000
+1078,C117,Bangalore,Clothing,2024-03-18,3,1200,Credit Card,3600
+1079,C118,Hyderabad,Grocery,2024-03-19,4,300,Debit Card,1200
+1080,C119,Chennai,Furniture,2024-03-20,5,800,Cash,4000
+1081,C100,Delhi,Electronics,2024-03-21,1,500,UPI,500
+1082,C101,Mumbai,Clothing,2024-03-22,2,1200,Credit Card,2400
+1083,C102,Bangalore,Grocery,2024-03-23,3,300,Debit Card,900
+1084,C103,Hyderabad,Furniture,2024-03-24,4,800,Cash,3200
+1085,C104,Chennai,Electronics,2024-03-25,5,500,UPI,2500
+1086,C105,Delhi,Clothing,2024-03-26,1,1200,Credit Card,1200
+1087,C106,Mumbai,Grocery,2024-03-27,2,300,Debit Card,600
+1088,C107,Bangalore,Furniture,2024-03-28,3,800,Cash,2400
+1089,C108,Hyderabad,Electronics,2024-03-29,4,500,UPI,2000
+1090,C109,Chennai,Clothing,2024-03-30,5,1200,Credit Card,6000
+1091,C110,Delhi,Grocery,2024-03-31,1,300,Debit Card,300
+1092,C111,Mumbai,Furniture,2024-04-01,2,800,Cash,1600
+1093,C112,Bangalore,Electronics,2024-04-02,3,500,UPI,1500
+1094,C113,Hyderabad,Clothing,2024-04-03,4,1200,Credit Card,4800
+1095,C114,Chennai,Grocery,2024-04-04,5,300,Debit Card,1500
+1096,C115,Delhi,Furniture,2024-04-05,1,800,Cash,800
+1097,C116,Mumbai,Electronics,2024-04-06,2,500,UPI,1000
+1098,C117,Bangalore,Clothing,2024-04-07,3,1200,Credit Card,3600
+1099,C118,Hyderabad,Grocery,2024-04-08,4,300,Debit Card,1200
+1100,C119,Chennai,Furniture,2024-04-09,5,800,Cash,4000
