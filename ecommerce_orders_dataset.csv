@@ -1,0 +1,1201 @@
+order_id,order_date,customer_id,city,product_category,product_name,quantity,price,discount_percent,payment_method,rating,returned
+1,2023-03-13,189,Kolkata,Electronics,Laptop,4,1160,10,Debit Card,5.0,0
+2,2023-03-29,100,Delhi,Clothing,Jeans,3,37494,10,UPI,3.0,0
+3,2023-10-04,161,Hyderabad,Electronics,Smartwatch,2,2733,15,UPI,4.0,0
+4,2024-04-19,59,Delhi,Electronics,Laptop,5,27780,0,Credit Card,2.0,0
+5,2024-07-20,244,Delhi,Electronics,Smartwatch,4,489,10,Cash on Delivery,1.0,0
+6,2023-06-16,274,Chennai,Clothing,Dress,3,41906,20,Debit Card,4.0,1
+7,2023-12-12,53,Kolkata,Electronics,Smartphone,2,43301,0,Cash on Delivery,2.0,0
+8,2023-02-04,206,Delhi,Home,Lamp,4,48855,20,Credit Card,1.0,0
+9,2024-04-21,191,Bangalore,Home,Mixer,4,19757,5,Cash on Delivery,2.0,0
+10,2023-09-27,271,Pune,Electronics,Headphones,2,37365,15,Debit Card,,0
+11,2023-12-04,53,Kolkata,Home,Mixer,1,24553,20,Cash on Delivery,2.0,1
+12,2023-02-10,157,Bangalore,Electronics,Tablet,4,8871,20,Debit Card,5.0,0
+13,2024-05-13,81,Delhi,Home,Table,1,2327,10,UPI,3.0,0
+14,2023-08-19,41,Pune,Electronics,Smartphone,3,38960,5,Debit Card,4.0,0
+15,2023-02-17,62,Pune,Electronics,Smartphone,4,48333,0,UPI,5.0,0
+16,2024-09-04,131,Hyderabad,Sports,Tennis Racket,3,42830,0,Debit Card,1.0,0
+17,2024-07-07,179,Mumbai,Clothing,Jacket,3,506,5,Credit Card,1.0,0
+18,2024-02-11,231,Chennai,Home,Mixer,4,18441,20,Credit Card,5.0,0
+19,2023-06-09,187,Hyderabad,Clothing,Jeans,5,34127,20,Cash on Delivery,3.0,0
+20,2024-07-27,134,Delhi,Home,Table,2,43989,20,Debit Card,4.0,0
+21,2024-10-01,231,Pune,Electronics,Smartphone,4,26239,10,UPI,,0
+22,2024-09-19,233,Mumbai,Home,Chair,1,1606,0,UPI,3.0,0
+23,2023-08-13,234,Kolkata,Clothing,Shoes,3,29620,20,Debit Card,4.0,0
+24,2024-11-22,113,Hyderabad,Clothing,Dress,3,28321,0,Cash on Delivery,,1
+25,2024-01-22,113,Delhi,Clothing,Jacket,4,17975,5,Credit Card,5.0,0
+26,2024-10-03,220,Hyderabad,Home,Table,1,27036,5,Cash on Delivery,,0
+27,2023-02-22,172,Delhi,Home,Cookware,1,47017,5,Cash on Delivery,2.0,1
+28,2024-02-05,255,Pune,Electronics,Laptop,4,33270,10,UPI,,0
+29,2024-05-25,240,Pune,Clothing,Jeans,4,40845,10,Cash on Delivery,1.0,0
+30,2024-10-21,252,Hyderabad,Electronics,Tablet,3,44657,20,Cash on Delivery,3.0,0
+31,2023-05-28,199,Pune,Home,Table,2,35054,10,UPI,4.0,1
+32,2024-04-17,151,Pune,Electronics,Smartwatch,2,11411,0,Debit Card,,0
+33,2024-07-25,2,Mumbai,Home,Mixer,4,31365,0,Cash on Delivery,1.0,0
+34,2023-06-09,9,Bangalore,Clothing,Dress,4,21232,20,Debit Card,1.0,0
+35,2024-09-19,75,Bangalore,Clothing,Shoes,3,4799,0,Debit Card,1.0,0
+36,2023-04-09,153,Mumbai,Clothing,Jeans,4,48654,0,Credit Card,5.0,0
+37,2024-11-11,161,Mumbai,Electronics,Smartwatch,2,12269,10,Cash on Delivery,4.0,0
+38,2024-05-18,135,Mumbai,Electronics,Laptop,5,21595,15,Debit Card,3.0,0
+39,2024-04-14,22,Delhi,Clothing,T-Shirt,1,4855,10,UPI,,0
+40,2023-01-27,226,Pune,Electronics,Tablet,5,9054,10,UPI,5.0,0
+41,2024-03-28,147,Kolkata,Clothing,Jeans,4,40090,0,Cash on Delivery,4.0,0
+42,2023-06-21,220,Chennai,Clothing,Jacket,1,40747,0,Cash on Delivery,,1
+43,2023-02-06,280,Pune,Clothing,Shoes,5,43825,10,Credit Card,5.0,0
+44,2023-04-26,191,Kolkata,Home,Chair,5,999,0,Debit Card,5.0,0
+45,2024-07-19,58,Hyderabad,Sports,Yoga Mat,1,20078,5,UPI,3.0,0
+46,2024-09-30,155,Bangalore,Clothing,Jeans,2,7755,5,Debit Card,2.0,0
+47,2024-01-28,299,Chennai,Electronics,Smartwatch,1,28051,0,Credit Card,,0
+48,2024-02-12,13,Bangalore,Clothing,T-Shirt,5,6101,5,UPI,4.0,0
+49,2023-01-20,264,Bangalore,Clothing,T-Shirt,1,45391,20,Debit Card,,0
+50,2023-12-20,288,Delhi,Electronics,Smartwatch,4,22686,15,Debit Card,,0
+51,2024-07-23,180,Chennai,Sports,Football,2,22977,5,Credit Card,2.0,0
+52,2023-09-21,53,Pune,Sports,Football,3,2791,20,Cash on Delivery,4.0,0
+53,2023-12-16,47,Bangalore,Sports,Football,5,21906,15,UPI,3.0,0
+54,2024-01-05,124,Hyderabad,Sports,Tennis Racket,4,39867,20,Cash on Delivery,2.0,0
+55,2024-08-26,58,Kolkata,Sports,Cricket Bat,1,8611,10,UPI,2.0,0
+56,2024-10-02,58,Kolkata,Electronics,Tablet,5,6249,0,Debit Card,2.0,0
+57,2024-05-02,237,Delhi,Electronics,Smartphone,2,46475,0,Credit Card,5.0,0
+58,2023-09-04,76,Hyderabad,Sports,Football,5,29675,20,Credit Card,2.0,0
+59,2023-10-12,220,Delhi,Home,Chair,5,7553,0,UPI,5.0,0
+60,2023-08-06,39,Bangalore,Sports,Yoga Mat,4,29424,15,UPI,4.0,0
+61,2024-06-05,246,Pune,Electronics,Laptop,5,26946,5,Credit Card,5.0,0
+62,2024-10-20,96,Hyderabad,Clothing,Dress,4,40458,5,Cash on Delivery,1.0,0
+63,2024-05-11,160,Bangalore,Clothing,Dress,5,4911,5,Credit Card,3.0,0
+64,2024-01-15,33,Hyderabad,Sports,Cricket Bat,4,7133,10,Debit Card,1.0,0
+65,2024-07-30,168,Hyderabad,Sports,Tennis Racket,3,38455,10,Cash on Delivery,2.0,0
+66,2024-08-29,253,Mumbai,Clothing,Jeans,5,43704,15,Credit Card,3.0,0
+67,2024-08-24,115,Kolkata,Electronics,Smartwatch,1,29061,20,UPI,1.0,0
+68,2024-05-07,75,Bangalore,Home,Mixer,2,24352,5,Cash on Delivery,5.0,0
+69,2024-11-06,192,Chennai,Clothing,T-Shirt,1,23848,0,UPI,3.0,1
+70,2023-04-06,152,Chennai,Clothing,T-Shirt,4,38141,0,UPI,,0
+71,2023-10-06,217,Bangalore,Clothing,Dress,4,36508,20,Credit Card,3.0,0
+72,2023-12-08,187,Bangalore,Electronics,Smartwatch,1,45212,15,Cash on Delivery,3.0,0
+73,2023-03-17,265,Delhi,Home,Lamp,4,7700,10,Debit Card,4.0,1
+74,2023-03-10,99,Hyderabad,Clothing,Jacket,4,5786,20,Credit Card,4.0,0
+75,2024-07-18,151,Mumbai,Home,Chair,3,22272,15,UPI,1.0,0
+76,2024-02-02,223,Chennai,Electronics,Tablet,5,21845,5,UPI,2.0,0
+77,2024-10-19,239,Delhi,Electronics,Smartwatch,5,37398,10,Debit Card,4.0,0
+78,2023-09-10,230,Bangalore,Clothing,Jacket,2,35607,0,Credit Card,,0
+79,2024-09-25,194,Delhi,Home,Lamp,2,27869,10,Cash on Delivery,5.0,0
+80,2023-12-08,145,Pune,Home,Table,3,28595,20,UPI,1.0,0
+81,2024-02-19,275,Delhi,Home,Mixer,4,36209,15,Debit Card,5.0,0
+82,2024-06-14,39,Kolkata,Electronics,Laptop,3,25589,5,Credit Card,,0
+83,2024-09-29,58,Chennai,Home,Lamp,5,21533,15,Credit Card,4.0,0
+84,2023-01-01,190,Kolkata,Home,Cookware,5,25770,0,Debit Card,1.0,0
+85,2023-04-27,134,Pune,Sports,Tennis Racket,1,24260,0,UPI,2.0,0
+86,2023-03-21,213,Pune,Electronics,Tablet,5,34920,20,Debit Card,3.0,1
+87,2024-06-15,47,Mumbai,Electronics,Laptop,4,26126,10,Credit Card,1.0,0
+88,2024-10-17,12,Kolkata,Home,Cookware,1,42656,10,Cash on Delivery,2.0,1
+89,2024-01-08,8,Bangalore,Sports,Yoga Mat,4,24259,15,UPI,2.0,0
+90,2023-11-12,178,Chennai,Electronics,Smartphone,2,36787,5,UPI,4.0,0
+91,2024-05-16,145,Chennai,Home,Table,1,5135,10,Credit Card,1.0,0
+92,2024-07-11,35,Bangalore,Sports,Football,4,35847,20,Debit Card,5.0,1
+93,2024-03-25,10,Mumbai,Home,Mixer,3,49707,20,Credit Card,,0
+94,2024-01-09,65,Mumbai,Clothing,T-Shirt,5,38192,0,Cash on Delivery,2.0,1
+95,2024-11-19,98,Pune,Clothing,Jeans,1,24133,0,Credit Card,1.0,0
+96,2024-10-06,259,Bangalore,Clothing,Dress,1,704,15,Credit Card,5.0,0
+97,2024-04-02,83,Pune,Home,Chair,5,11216,5,Credit Card,1.0,0
+98,2023-02-20,173,Pune,Home,Cookware,1,39065,0,UPI,5.0,0
+99,2023-12-14,95,Pune,Sports,Cricket Bat,1,38044,5,Cash on Delivery,2.0,0
+100,2023-09-25,54,Pune,Clothing,Jeans,3,28838,5,Cash on Delivery,4.0,0
+101,2024-09-15,255,Pune,Home,Lamp,3,43108,0,Credit Card,5.0,0
+102,2023-04-13,192,Kolkata,Clothing,T-Shirt,2,26998,10,Credit Card,4.0,1
+103,2024-03-10,249,Mumbai,Sports,Tennis Racket,2,8317,10,UPI,,0
+104,2024-07-16,81,Kolkata,Home,Lamp,4,4937,5,Cash on Delivery,5.0,0
+105,2024-05-22,69,Bangalore,Home,Mixer,2,20156,5,Debit Card,2.0,0
+106,2023-02-12,240,Mumbai,Clothing,Shoes,2,4600,10,UPI,3.0,0
+107,2024-01-09,8,Hyderabad,Electronics,Smartwatch,1,24514,10,Debit Card,4.0,0
+108,2024-10-28,93,Chennai,Home,Chair,1,18571,10,UPI,2.0,0
+109,2023-01-05,92,Delhi,Sports,Yoga Mat,3,24254,20,Debit Card,2.0,0
+110,2024-10-06,233,Bangalore,Electronics,Tablet,5,40049,0,Credit Card,4.0,0
+111,2023-03-14,282,Bangalore,Home,Chair,2,43228,5,Debit Card,1.0,0
+112,2023-12-03,26,Kolkata,Home,Mixer,3,19562,20,Debit Card,4.0,0
+113,2024-11-22,207,Mumbai,Home,Chair,1,14478,20,Cash on Delivery,,0
+114,2023-12-31,154,Delhi,Home,Table,4,8450,5,Credit Card,,0
+115,2024-09-14,238,Kolkata,Sports,Gym Gloves,3,5426,10,Credit Card,3.0,0
+116,2023-01-15,192,Chennai,Home,Chair,5,40741,10,UPI,1.0,0
+117,2023-09-30,231,Delhi,Home,Lamp,4,25589,0,Cash on Delivery,,0
+118,2024-06-08,212,Hyderabad,Home,Chair,4,4932,0,Cash on Delivery,1.0,0
+119,2023-05-26,111,Hyderabad,Clothing,Shoes,3,16916,20,Credit Card,4.0,0
+120,2024-08-17,42,Chennai,Electronics,Headphones,2,13210,0,Debit Card,1.0,0
+121,2024-03-18,229,Kolkata,Electronics,Smartphone,4,48747,5,Debit Card,1.0,0
+122,2023-12-16,95,Delhi,Clothing,Jeans,5,1905,15,UPI,1.0,0
+123,2024-07-01,223,Hyderabad,Electronics,Smartphone,3,35658,20,UPI,,0
+124,2024-10-07,118,Kolkata,Sports,Gym Gloves,4,29046,15,Credit Card,1.0,0
+125,2024-01-27,26,Hyderabad,Sports,Gym Gloves,3,38628,5,Credit Card,3.0,0
+126,2023-04-28,275,Pune,Clothing,T-Shirt,5,6769,5,UPI,4.0,0
+127,2023-03-31,142,Delhi,Sports,Football,1,39351,0,Cash on Delivery,,0
+128,2023-09-16,161,Delhi,Electronics,Smartwatch,3,32554,15,UPI,,0
+129,2023-06-21,13,Pune,Sports,Football,2,16944,5,Cash on Delivery,2.0,0
+130,2024-07-03,94,Chennai,Home,Chair,5,43636,0,Cash on Delivery,1.0,0
+131,2023-11-30,137,Kolkata,Sports,Football,4,535,5,Cash on Delivery,2.0,0
+132,2023-12-15,267,Pune,Sports,Tennis Racket,3,5715,15,Credit Card,1.0,0
+133,2023-06-14,5,Hyderabad,Home,Table,4,23625,10,Credit Card,3.0,0
+134,2023-02-11,89,Bangalore,Home,Chair,2,20911,0,Debit Card,2.0,0
+135,2023-01-23,63,Mumbai,Clothing,Jacket,3,8104,0,Debit Card,1.0,0
+136,2024-09-07,104,Delhi,Electronics,Smartphone,1,11546,5,Credit Card,3.0,0
+137,2024-07-07,15,Kolkata,Sports,Football,3,31410,10,Credit Card,5.0,0
+138,2024-07-03,97,Hyderabad,Electronics,Tablet,3,33487,20,Debit Card,5.0,0
+139,2024-08-20,10,Bangalore,Sports,Gym Gloves,1,38441,15,Credit Card,5.0,0
+140,2023-06-08,228,Pune,Sports,Gym Gloves,1,46497,20,UPI,5.0,0
+141,2023-06-06,47,Bangalore,Sports,Gym Gloves,5,20403,20,Debit Card,4.0,0
+142,2023-10-19,282,Pune,Home,Chair,2,48838,10,Cash on Delivery,3.0,0
+143,2024-07-03,134,Delhi,Clothing,Dress,4,12598,5,Debit Card,2.0,1
+144,2024-09-07,210,Bangalore,Sports,Gym Gloves,4,10757,20,Cash on Delivery,1.0,0
+145,2023-12-22,133,Kolkata,Home,Chair,4,27606,15,Credit Card,5.0,0
+146,2024-01-13,51,Chennai,Sports,Football,2,27932,15,UPI,5.0,0
+147,2024-02-11,257,Chennai,Sports,Yoga Mat,1,4097,10,UPI,,0
+148,2023-07-01,1,Delhi,Electronics,Tablet,2,1945,15,Cash on Delivery,,0
+149,2023-11-05,137,Mumbai,Clothing,T-Shirt,5,11994,0,Cash on Delivery,2.0,0
+150,2024-07-28,244,Hyderabad,Home,Cookware,5,32709,0,Debit Card,1.0,0
+151,2024-04-19,17,Mumbai,Home,Chair,2,8370,5,Cash on Delivery,3.0,0
+152,2023-06-29,198,Hyderabad,Home,Mixer,3,13790,0,UPI,5.0,1
+153,2024-10-23,154,Delhi,Electronics,Headphones,1,37448,10,UPI,4.0,0
+154,2023-12-27,177,Delhi,Electronics,Laptop,1,5244,15,Credit Card,4.0,0
+155,2023-12-26,49,Delhi,Electronics,Smartwatch,4,21866,20,Credit Card,1.0,0
+156,2023-11-14,32,Kolkata,Clothing,Dress,3,24742,10,UPI,,0
+157,2023-01-18,257,Kolkata,Clothing,Dress,5,42760,10,Debit Card,,0
+158,2023-04-23,114,Chennai,Home,Cookware,2,29165,15,UPI,,0
+159,2024-04-02,162,Bangalore,Clothing,Jacket,4,12642,10,UPI,4.0,0
+160,2024-01-26,8,Kolkata,Home,Table,4,26699,5,Cash on Delivery,1.0,0
+161,2023-11-24,54,Bangalore,Sports,Football,3,47363,10,Credit Card,1.0,0
+162,2024-08-26,264,Pune,Electronics,Headphones,3,40286,0,UPI,2.0,0
+163,2024-05-14,165,Chennai,Electronics,Headphones,3,12475,15,Cash on Delivery,,0
+164,2024-11-03,151,Chennai,Home,Mixer,2,6450,5,Debit Card,5.0,0
+165,2023-10-12,188,Pune,Electronics,Tablet,5,42174,15,Cash on Delivery,2.0,0
+166,2024-01-21,195,Mumbai,Electronics,Tablet,5,22719,10,Cash on Delivery,4.0,0
+167,2023-08-14,53,Delhi,Clothing,Dress,5,13521,0,Debit Card,4.0,0
+168,2023-10-07,81,Hyderabad,Sports,Gym Gloves,2,44161,15,Debit Card,2.0,0
+169,2023-04-25,209,Pune,Home,Cookware,3,24857,0,UPI,,0
+170,2023-12-25,201,Delhi,Home,Chair,2,41496,0,Cash on Delivery,,0
+171,2023-04-19,98,Bangalore,Sports,Tennis Racket,4,41701,20,Cash on Delivery,5.0,0
+172,2023-02-10,34,Hyderabad,Home,Cookware,2,26965,15,Credit Card,1.0,0
+173,2023-12-08,27,Mumbai,Home,Lamp,2,13175,20,Debit Card,1.0,0
+174,2023-09-25,237,Bangalore,Home,Table,3,4563,5,Credit Card,1.0,0
+175,2024-04-20,190,Kolkata,Electronics,Smartphone,2,11964,5,Cash on Delivery,2.0,0
+176,2024-11-23,292,Pune,Sports,Yoga Mat,2,36135,10,Credit Card,3.0,0
+177,2023-04-23,187,Hyderabad,Sports,Gym Gloves,5,24363,15,UPI,3.0,1
+178,2024-07-01,239,Delhi,Electronics,Headphones,5,24163,0,Cash on Delivery,4.0,0
+179,2024-05-21,201,Kolkata,Clothing,Jacket,4,16150,0,Debit Card,2.0,0
+180,2024-10-02,217,Chennai,Sports,Yoga Mat,1,15348,0,Debit Card,5.0,0
+181,2023-05-11,229,Mumbai,Sports,Yoga Mat,2,45380,10,Debit Card,4.0,0
+182,2024-09-04,44,Mumbai,Sports,Tennis Racket,2,23351,10,Debit Card,3.0,1
+183,2024-07-22,12,Kolkata,Clothing,T-Shirt,5,21820,5,Credit Card,,1
+184,2023-03-22,215,Kolkata,Home,Mixer,3,6195,20,Credit Card,5.0,0
+185,2024-05-03,26,Kolkata,Clothing,Jeans,1,12218,10,Cash on Delivery,2.0,0
+186,2023-03-27,250,Pune,Home,Table,1,12482,5,Debit Card,,0
+187,2024-04-21,82,Mumbai,Electronics,Smartphone,1,11422,5,Credit Card,,0
+188,2024-05-04,103,Mumbai,Home,Cookware,3,37565,10,UPI,1.0,0
+189,2023-04-08,131,Bangalore,Clothing,Jacket,3,35735,15,UPI,5.0,0
+190,2023-02-08,15,Kolkata,Home,Cookware,2,20962,15,Cash on Delivery,1.0,0
+191,2023-06-10,16,Chennai,Electronics,Laptop,1,7864,5,Debit Card,5.0,0
+192,2023-06-19,34,Hyderabad,Sports,Gym Gloves,2,8802,10,Debit Card,,0
+193,2024-02-20,96,Mumbai,Clothing,T-Shirt,5,28088,5,Cash on Delivery,3.0,0
+194,2024-04-21,245,Hyderabad,Electronics,Laptop,4,45384,0,Cash on Delivery,4.0,0
+195,2023-12-25,65,Kolkata,Electronics,Smartwatch,4,10916,5,UPI,,0
+196,2023-11-20,146,Pune,Clothing,Jeans,5,34233,5,Debit Card,,0
+197,2024-02-03,140,Bangalore,Electronics,Smartphone,1,24857,0,Cash on Delivery,3.0,1
+198,2024-01-15,198,Hyderabad,Clothing,Shoes,5,45328,10,Cash on Delivery,,0
+199,2024-07-17,260,Pune,Sports,Tennis Racket,5,14861,0,Cash on Delivery,3.0,0
+200,2023-08-31,107,Chennai,Home,Table,5,16234,20,UPI,2.0,0
+201,2023-09-16,262,Kolkata,Electronics,Smartphone,1,27676,5,Credit Card,5.0,0
+202,2023-01-20,241,Delhi,Home,Mixer,1,46900,10,Credit Card,5.0,0
+203,2023-08-04,3,Bangalore,Clothing,Shoes,3,25725,0,Credit Card,3.0,0
+204,2023-11-25,68,Hyderabad,Electronics,Tablet,5,10522,0,Cash on Delivery,,0
+205,2024-09-26,29,Delhi,Home,Mixer,3,18324,10,Debit Card,1.0,0
+206,2024-06-04,40,Bangalore,Home,Chair,2,26231,5,Credit Card,1.0,0
+207,2023-02-07,251,Kolkata,Home,Table,3,15885,15,Credit Card,5.0,0
+208,2023-11-12,176,Chennai,Sports,Cricket Bat,2,29425,20,Credit Card,5.0,0
+209,2023-02-09,224,Pune,Clothing,Jacket,5,45948,5,Credit Card,,0
+210,2023-02-09,237,Delhi,Electronics,Laptop,2,1891,5,Debit Card,1.0,0
+211,2023-12-19,59,Bangalore,Home,Chair,3,19923,15,Cash on Delivery,3.0,0
+212,2023-12-11,181,Mumbai,Home,Chair,5,33430,20,Cash on Delivery,2.0,0
+213,2023-01-07,133,Chennai,Sports,Cricket Bat,3,2769,15,UPI,3.0,1
+214,2024-01-29,160,Chennai,Sports,Tennis Racket,1,49438,5,Debit Card,3.0,0
+215,2024-08-11,12,Delhi,Electronics,Laptop,2,19087,5,UPI,2.0,0
+216,2023-01-17,223,Bangalore,Home,Table,3,1436,0,Credit Card,2.0,0
+217,2024-02-18,74,Kolkata,Sports,Yoga Mat,5,1307,10,Cash on Delivery,1.0,1
+218,2023-10-05,196,Chennai,Home,Cookware,4,33639,20,Cash on Delivery,4.0,0
+219,2023-07-11,17,Hyderabad,Sports,Cricket Bat,2,7791,10,Debit Card,4.0,0
+220,2023-01-22,120,Mumbai,Sports,Tennis Racket,2,9377,0,UPI,3.0,0
+221,2023-08-15,7,Hyderabad,Clothing,Jacket,5,21495,15,Cash on Delivery,5.0,0
+222,2024-06-21,226,Pune,Home,Chair,3,27382,5,UPI,5.0,1
+223,2023-02-08,271,Mumbai,Sports,Cricket Bat,3,6840,0,Debit Card,5.0,0
+224,2023-01-22,27,Pune,Home,Mixer,4,47066,15,Cash on Delivery,3.0,1
+225,2023-01-21,84,Hyderabad,Electronics,Smartwatch,4,28387,15,Cash on Delivery,,0
+226,2024-07-23,15,Chennai,Electronics,Smartphone,5,5926,0,Debit Card,2.0,0
+227,2023-09-28,208,Pune,Sports,Gym Gloves,1,42052,15,UPI,3.0,1
+228,2023-11-05,8,Chennai,Clothing,Jacket,1,6076,20,Credit Card,3.0,0
+229,2023-12-15,181,Kolkata,Home,Chair,4,39410,10,Cash on Delivery,4.0,1
+230,2023-07-25,273,Kolkata,Electronics,Laptop,4,826,0,Credit Card,,0
+231,2024-05-15,117,Chennai,Clothing,Jacket,4,9012,0,UPI,2.0,0
+232,2023-03-13,277,Delhi,Sports,Cricket Bat,3,30059,20,UPI,2.0,0
+233,2023-10-28,217,Kolkata,Sports,Cricket Bat,2,18073,10,Credit Card,1.0,1
+234,2023-08-02,179,Chennai,Sports,Tennis Racket,1,30387,10,Debit Card,1.0,0
+235,2024-10-21,161,Hyderabad,Sports,Gym Gloves,1,38859,15,Credit Card,2.0,0
+236,2024-08-11,116,Delhi,Sports,Yoga Mat,2,49453,0,Cash on Delivery,2.0,0
+237,2024-11-16,122,Chennai,Clothing,Shoes,2,15825,5,Credit Card,2.0,0
+238,2023-11-01,123,Pune,Electronics,Headphones,2,9378,15,Cash on Delivery,,0
+239,2024-01-05,204,Mumbai,Home,Table,1,26315,0,UPI,2.0,0
+240,2024-01-18,7,Pune,Home,Lamp,4,13929,10,Cash on Delivery,3.0,0
+241,2023-01-22,3,Chennai,Clothing,Dress,4,11953,5,Cash on Delivery,1.0,0
+242,2023-03-28,12,Chennai,Home,Lamp,3,15613,15,Cash on Delivery,5.0,0
+243,2024-07-20,238,Pune,Sports,Tennis Racket,3,27045,10,Credit Card,4.0,0
+244,2024-11-25,288,Hyderabad,Clothing,Shoes,5,44962,20,Credit Card,3.0,0
+245,2023-12-18,59,Mumbai,Sports,Cricket Bat,2,16382,20,Cash on Delivery,3.0,0
+246,2023-04-03,207,Kolkata,Sports,Gym Gloves,3,29006,20,Credit Card,1.0,0
+247,2023-06-08,24,Delhi,Sports,Cricket Bat,1,7305,20,Debit Card,4.0,0
+248,2023-06-01,50,Bangalore,Electronics,Tablet,4,26263,15,Cash on Delivery,1.0,0
+249,2023-04-27,228,Hyderabad,Electronics,Smartphone,1,6863,5,Credit Card,2.0,0
+250,2024-01-06,186,Pune,Electronics,Tablet,4,45650,5,Debit Card,,0
+251,2024-07-05,21,Kolkata,Home,Table,3,48664,5,Cash on Delivery,1.0,0
+252,2024-06-09,2,Pune,Electronics,Headphones,4,23579,5,Cash on Delivery,5.0,0
+253,2024-01-16,111,Pune,Home,Chair,5,4948,15,UPI,,0
+254,2023-05-25,28,Kolkata,Electronics,Smartphone,1,36223,5,Debit Card,2.0,0
+255,2024-02-28,164,Hyderabad,Clothing,T-Shirt,5,43306,0,UPI,5.0,0
+256,2024-08-27,266,Delhi,Electronics,Tablet,3,45038,5,Debit Card,4.0,0
+257,2024-11-13,1,Mumbai,Electronics,Laptop,1,6576,15,UPI,1.0,0
+258,2023-04-17,175,Mumbai,Home,Lamp,4,42567,0,Cash on Delivery,5.0,0
+259,2023-06-05,207,Chennai,Clothing,Jeans,1,36636,15,Cash on Delivery,,0
+260,2023-11-30,130,Delhi,Clothing,Jeans,5,35007,5,UPI,1.0,0
+261,2023-01-01,119,Kolkata,Sports,Yoga Mat,4,581,20,Credit Card,3.0,0
+262,2023-06-10,179,Delhi,Sports,Yoga Mat,5,38246,20,Credit Card,,0
+263,2023-05-06,217,Hyderabad,Sports,Tennis Racket,4,35357,10,Debit Card,2.0,1
+264,2023-10-21,151,Mumbai,Electronics,Tablet,3,3549,15,Credit Card,,0
+265,2024-01-10,8,Mumbai,Electronics,Tablet,2,44053,15,Debit Card,2.0,0
+266,2024-05-09,86,Hyderabad,Sports,Tennis Racket,5,40587,20,Debit Card,2.0,0
+267,2023-05-25,26,Pune,Clothing,Dress,2,22773,5,Cash on Delivery,1.0,0
+268,2023-01-01,147,Hyderabad,Electronics,Smartphone,1,30959,0,Debit Card,,0
+269,2023-08-08,192,Bangalore,Home,Lamp,5,27284,5,Cash on Delivery,,0
+270,2024-11-18,269,Chennai,Home,Mixer,1,8148,0,UPI,1.0,0
+271,2024-09-01,102,Pune,Sports,Tennis Racket,1,40182,15,Credit Card,,1
+272,2024-02-01,279,Kolkata,Home,Cookware,3,36621,5,Credit Card,3.0,0
+273,2024-10-16,65,Kolkata,Home,Cookware,1,1667,0,UPI,4.0,0
+274,2024-08-27,224,Pune,Electronics,Headphones,5,12478,15,Cash on Delivery,1.0,0
+275,2024-09-13,265,Mumbai,Electronics,Smartwatch,2,44598,10,Credit Card,3.0,0
+276,2024-09-20,221,Mumbai,Electronics,Headphones,2,43761,15,Cash on Delivery,2.0,0
+277,2023-10-27,228,Delhi,Clothing,Jeans,5,16653,20,Debit Card,3.0,0
+278,2024-03-02,21,Mumbai,Home,Cookware,2,27287,10,Cash on Delivery,3.0,0
+279,2023-02-20,271,Pune,Home,Lamp,5,21927,0,UPI,4.0,1
+280,2024-01-08,52,Delhi,Sports,Cricket Bat,3,47181,20,Credit Card,,0
+281,2024-02-24,158,Mumbai,Sports,Yoga Mat,4,31310,5,UPI,2.0,0
+282,2023-12-11,263,Mumbai,Sports,Cricket Bat,5,23471,5,UPI,4.0,0
+283,2024-03-20,298,Kolkata,Sports,Tennis Racket,5,3954,0,Debit Card,4.0,0
+284,2023-12-28,47,Bangalore,Sports,Tennis Racket,1,21975,20,Credit Card,3.0,0
+285,2023-01-26,9,Chennai,Sports,Cricket Bat,5,23553,15,Debit Card,2.0,0
+286,2024-08-06,152,Kolkata,Clothing,T-Shirt,1,10152,5,Cash on Delivery,1.0,0
+287,2024-09-03,60,Bangalore,Home,Chair,5,45405,10,Credit Card,2.0,0
+288,2024-03-14,242,Mumbai,Electronics,Laptop,3,16335,5,Cash on Delivery,5.0,0
+289,2024-09-22,149,Delhi,Electronics,Laptop,3,17933,0,Credit Card,1.0,0
+290,2024-03-30,160,Mumbai,Sports,Gym Gloves,5,16314,10,Cash on Delivery,3.0,0
+291,2023-09-11,258,Kolkata,Clothing,Dress,5,39720,0,UPI,3.0,0
+292,2024-01-09,125,Hyderabad,Sports,Yoga Mat,2,28782,5,Debit Card,1.0,0
+293,2023-04-12,42,Delhi,Electronics,Headphones,4,38767,5,Cash on Delivery,5.0,0
+294,2023-03-14,136,Pune,Sports,Football,5,45708,15,Debit Card,1.0,0
+295,2024-10-03,5,Chennai,Electronics,Headphones,1,7004,15,Debit Card,4.0,0
+296,2023-03-08,300,Mumbai,Electronics,Tablet,5,34803,5,Credit Card,5.0,0
+297,2023-12-20,286,Bangalore,Electronics,Tablet,2,19501,0,Credit Card,4.0,0
+298,2024-03-28,287,Pune,Electronics,Laptop,4,30437,15,Debit Card,1.0,0
+299,2023-02-24,12,Pune,Clothing,Jeans,2,23497,0,Credit Card,1.0,0
+300,2023-10-06,115,Delhi,Electronics,Smartwatch,4,11054,20,Credit Card,,1
+301,2023-10-13,149,Pune,Clothing,Jacket,4,19052,0,Credit Card,4.0,0
+302,2024-04-04,38,Pune,Electronics,Headphones,2,26642,0,Credit Card,4.0,0
+303,2024-07-31,258,Mumbai,Clothing,Shoes,4,6082,5,Credit Card,3.0,0
+304,2023-07-15,262,Delhi,Electronics,Laptop,1,38367,5,UPI,3.0,0
+305,2023-01-12,239,Chennai,Home,Cookware,4,25119,5,Debit Card,1.0,0
+306,2023-06-07,216,Mumbai,Electronics,Smartphone,2,22232,10,UPI,2.0,0
+307,2024-06-09,73,Chennai,Clothing,Dress,3,28795,15,UPI,5.0,0
+308,2024-04-10,206,Hyderabad,Electronics,Tablet,3,20909,10,Debit Card,4.0,0
+309,2023-09-10,289,Chennai,Electronics,Tablet,2,5956,5,Credit Card,4.0,0
+310,2024-03-11,25,Mumbai,Electronics,Smartwatch,1,26009,20,Cash on Delivery,5.0,0
+311,2024-06-20,79,Hyderabad,Electronics,Laptop,5,40205,15,Cash on Delivery,4.0,0
+312,2024-10-14,31,Hyderabad,Sports,Cricket Bat,4,8267,15,Cash on Delivery,,0
+313,2023-02-12,254,Mumbai,Electronics,Laptop,5,35562,20,Credit Card,2.0,0
+314,2024-05-31,266,Mumbai,Electronics,Smartphone,3,6730,10,Debit Card,1.0,0
+315,2023-03-24,99,Chennai,Sports,Yoga Mat,3,46632,0,Debit Card,5.0,0
+316,2024-08-31,260,Chennai,Sports,Yoga Mat,3,6706,15,Cash on Delivery,4.0,1
+317,2023-08-09,124,Pune,Electronics,Laptop,1,43408,15,Credit Card,,0
+318,2024-04-27,7,Delhi,Sports,Gym Gloves,5,32671,20,Cash on Delivery,3.0,0
+319,2024-05-24,183,Hyderabad,Home,Chair,5,39208,20,Cash on Delivery,2.0,0
+320,2024-10-11,65,Hyderabad,Electronics,Headphones,5,37905,20,Debit Card,5.0,0
+321,2024-11-23,173,Delhi,Home,Lamp,2,47896,20,Cash on Delivery,4.0,0
+322,2023-11-04,256,Pune,Electronics,Laptop,1,5095,10,UPI,5.0,0
+323,2024-09-15,252,Bangalore,Electronics,Tablet,4,25421,15,Debit Card,2.0,0
+324,2024-02-26,42,Bangalore,Clothing,Shoes,1,28680,15,Debit Card,5.0,1
+325,2023-04-30,129,Mumbai,Electronics,Tablet,1,31211,0,Cash on Delivery,2.0,0
+326,2023-08-30,232,Chennai,Electronics,Headphones,5,42380,5,Debit Card,5.0,0
+327,2023-03-20,173,Chennai,Home,Mixer,2,28902,0,Credit Card,3.0,0
+328,2023-01-08,200,Delhi,Clothing,Dress,4,22914,20,UPI,1.0,0
+329,2024-02-12,152,Mumbai,Home,Table,1,8088,10,UPI,1.0,1
+330,2024-01-01,228,Delhi,Home,Table,5,29203,5,Cash on Delivery,3.0,1
+331,2024-06-23,51,Kolkata,Electronics,Smartwatch,3,38578,10,Debit Card,3.0,0
+332,2024-07-03,111,Mumbai,Electronics,Smartphone,5,39561,5,Debit Card,4.0,0
+333,2024-04-07,49,Bangalore,Home,Lamp,1,35444,5,Credit Card,4.0,0
+334,2023-04-29,190,Kolkata,Clothing,Shoes,1,12804,5,Cash on Delivery,2.0,0
+335,2024-05-02,258,Kolkata,Electronics,Smartphone,4,25527,10,UPI,,0
+336,2024-06-05,271,Delhi,Electronics,Smartwatch,4,30221,10,Cash on Delivery,1.0,1
+337,2023-05-04,114,Mumbai,Sports,Gym Gloves,1,22468,10,Credit Card,,0
+338,2023-10-15,174,Kolkata,Home,Lamp,4,47104,15,Debit Card,1.0,0
+339,2023-08-21,18,Delhi,Electronics,Laptop,3,31141,0,Credit Card,5.0,0
+340,2023-07-22,256,Mumbai,Electronics,Laptop,5,16297,15,Cash on Delivery,,0
+341,2024-04-10,258,Chennai,Sports,Gym Gloves,1,43841,15,Cash on Delivery,5.0,0
+342,2024-08-29,88,Delhi,Sports,Tennis Racket,4,25158,5,UPI,4.0,0
+343,2023-12-19,184,Bangalore,Home,Chair,3,27344,20,Debit Card,3.0,0
+344,2023-01-30,295,Kolkata,Sports,Yoga Mat,3,16706,20,Debit Card,4.0,0
+345,2023-07-05,144,Hyderabad,Electronics,Smartphone,5,30106,5,UPI,1.0,0
+346,2023-04-14,224,Mumbai,Electronics,Smartphone,3,17132,15,Credit Card,2.0,0
+347,2023-10-29,231,Mumbai,Clothing,Jacket,1,3381,20,Debit Card,3.0,0
+348,2024-01-28,86,Hyderabad,Electronics,Laptop,1,2459,20,Cash on Delivery,2.0,0
+349,2024-02-22,20,Hyderabad,Clothing,Jeans,4,27132,0,Credit Card,3.0,0
+350,2024-09-14,132,Hyderabad,Home,Mixer,3,17381,15,UPI,4.0,0
+351,2024-04-13,202,Hyderabad,Sports,Cricket Bat,3,24005,20,UPI,,0
+352,2023-01-20,273,Hyderabad,Home,Table,4,34148,20,Cash on Delivery,4.0,0
+353,2023-12-02,186,Bangalore,Sports,Tennis Racket,3,16387,20,Cash on Delivery,4.0,0
+354,2023-06-08,188,Delhi,Electronics,Headphones,2,16329,5,Cash on Delivery,4.0,0
+355,2023-03-17,30,Hyderabad,Home,Mixer,3,12993,20,UPI,2.0,0
+356,2024-03-07,173,Chennai,Clothing,Dress,4,49131,10,Cash on Delivery,4.0,0
+357,2024-09-19,113,Pune,Electronics,Tablet,1,11020,5,Debit Card,3.0,0
+358,2023-04-28,161,Mumbai,Home,Cookware,3,16484,15,Credit Card,1.0,0
+359,2024-02-03,198,Kolkata,Electronics,Smartwatch,4,30747,10,UPI,,0
+360,2024-05-19,61,Mumbai,Clothing,Jacket,1,45957,20,Credit Card,2.0,0
+361,2023-09-11,118,Delhi,Clothing,T-Shirt,5,46998,0,Debit Card,5.0,0
+362,2024-03-01,35,Chennai,Clothing,Jeans,3,18584,10,Credit Card,,0
+363,2023-02-18,74,Pune,Electronics,Smartphone,5,8299,20,Cash on Delivery,5.0,0
+364,2024-10-02,280,Pune,Sports,Yoga Mat,2,20015,5,Cash on Delivery,1.0,0
+365,2023-12-30,188,Delhi,Home,Lamp,1,13793,15,Cash on Delivery,1.0,0
+366,2024-02-12,106,Hyderabad,Electronics,Tablet,1,45903,20,Debit Card,,0
+367,2023-09-27,120,Bangalore,Home,Table,3,35042,15,Debit Card,2.0,0
+368,2024-08-04,44,Hyderabad,Electronics,Headphones,2,8196,20,Cash on Delivery,1.0,0
+369,2023-09-07,21,Mumbai,Electronics,Laptop,3,2943,5,Debit Card,4.0,0
+370,2024-11-02,248,Chennai,Electronics,Laptop,3,32562,5,Cash on Delivery,3.0,1
+371,2023-05-22,165,Chennai,Sports,Yoga Mat,5,12229,15,UPI,2.0,1
+372,2023-11-01,161,Kolkata,Sports,Yoga Mat,5,34821,20,Credit Card,2.0,0
+373,2024-08-15,152,Hyderabad,Home,Table,2,15652,0,Credit Card,5.0,0
+374,2024-11-11,86,Bangalore,Electronics,Tablet,4,23781,10,Debit Card,1.0,0
+375,2024-05-31,2,Kolkata,Electronics,Smartwatch,2,3948,5,Credit Card,,0
+376,2024-09-28,167,Kolkata,Electronics,Smartphone,2,397,10,Cash on Delivery,,0
+377,2024-09-02,192,Chennai,Sports,Yoga Mat,4,4966,5,Credit Card,3.0,0
+378,2024-01-18,68,Mumbai,Home,Lamp,5,13119,5,Cash on Delivery,,0
+379,2024-08-26,270,Kolkata,Sports,Tennis Racket,5,31098,15,UPI,3.0,1
+380,2024-03-22,66,Mumbai,Home,Mixer,2,40261,0,UPI,1.0,0
+381,2023-04-07,42,Mumbai,Sports,Tennis Racket,3,43251,15,Credit Card,4.0,0
+382,2024-01-14,178,Chennai,Home,Mixer,4,26690,0,Credit Card,3.0,0
+383,2024-08-08,8,Kolkata,Home,Lamp,3,29750,15,Cash on Delivery,4.0,0
+384,2024-07-12,238,Kolkata,Clothing,Shoes,4,7539,0,UPI,2.0,0
+385,2024-01-21,263,Hyderabad,Home,Table,4,20209,15,Debit Card,3.0,0
+386,2023-02-09,220,Bangalore,Clothing,Shoes,3,14237,10,Cash on Delivery,1.0,0
+387,2024-09-04,260,Mumbai,Home,Mixer,5,47271,10,Debit Card,,0
+388,2024-06-07,16,Mumbai,Clothing,Jeans,3,2891,0,Cash on Delivery,1.0,0
+389,2023-04-12,223,Delhi,Clothing,Jeans,5,1583,15,Credit Card,3.0,0
+390,2023-05-11,196,Pune,Electronics,Headphones,3,8304,0,UPI,1.0,0
+391,2024-04-20,265,Pune,Electronics,Headphones,2,23472,10,Credit Card,4.0,1
+392,2024-01-30,213,Delhi,Sports,Football,3,16599,0,Credit Card,2.0,0
+393,2023-10-04,156,Bangalore,Clothing,Dress,4,13063,5,Cash on Delivery,2.0,0
+394,2023-02-10,75,Hyderabad,Home,Cookware,5,18399,5,Debit Card,1.0,0
+395,2024-10-12,271,Chennai,Sports,Football,1,7280,15,Credit Card,3.0,0
+396,2023-03-07,248,Pune,Home,Chair,4,27816,5,Credit Card,4.0,0
+397,2023-01-01,247,Hyderabad,Home,Table,1,38847,15,Cash on Delivery,3.0,0
+398,2023-08-15,117,Chennai,Home,Chair,1,47546,20,Cash on Delivery,5.0,0
+399,2024-07-04,252,Pune,Clothing,Jeans,4,17143,0,Credit Card,5.0,0
+400,2023-08-07,91,Kolkata,Home,Mixer,3,21425,10,Cash on Delivery,2.0,0
+401,2024-10-20,30,Bangalore,Home,Table,4,21280,10,UPI,,0
+402,2024-09-05,215,Pune,Home,Mixer,1,8772,5,Credit Card,,0
+403,2024-03-01,275,Chennai,Home,Chair,3,15582,10,Credit Card,1.0,0
+404,2024-09-27,121,Delhi,Sports,Cricket Bat,5,48754,0,Cash on Delivery,4.0,0
+405,2024-11-06,286,Hyderabad,Home,Mixer,4,4793,20,UPI,1.0,0
+406,2023-11-30,222,Mumbai,Sports,Yoga Mat,4,47492,10,Credit Card,1.0,0
+407,2024-09-28,110,Mumbai,Sports,Cricket Bat,4,15149,0,Credit Card,,0
+408,2024-03-07,158,Bangalore,Electronics,Headphones,5,9577,0,Debit Card,4.0,0
+409,2023-11-21,276,Bangalore,Clothing,Jeans,2,1792,20,Debit Card,5.0,0
+410,2023-07-20,35,Pune,Sports,Football,1,7456,20,Cash on Delivery,1.0,0
+411,2023-12-09,76,Bangalore,Sports,Yoga Mat,1,46387,20,UPI,,0
+412,2024-08-27,232,Delhi,Electronics,Headphones,1,46014,5,Credit Card,5.0,0
+413,2024-03-30,28,Pune,Sports,Cricket Bat,4,12766,15,Debit Card,4.0,0
+414,2023-07-13,162,Bangalore,Clothing,Jacket,5,9070,15,UPI,3.0,0
+415,2024-07-26,268,Kolkata,Clothing,Dress,1,32627,0,Cash on Delivery,,0
+416,2024-03-24,93,Pune,Electronics,Laptop,3,20135,5,Cash on Delivery,5.0,0
+417,2024-11-19,141,Chennai,Electronics,Smartwatch,3,18139,20,Credit Card,5.0,0
+418,2024-02-08,90,Hyderabad,Clothing,Jacket,1,17843,10,UPI,5.0,0
+419,2023-12-10,37,Chennai,Home,Cookware,2,5782,0,Cash on Delivery,1.0,0
+420,2023-07-02,41,Chennai,Clothing,T-Shirt,5,35934,10,Debit Card,5.0,0
+421,2023-05-07,46,Chennai,Electronics,Smartwatch,3,21686,20,UPI,5.0,0
+422,2024-08-06,109,Bangalore,Sports,Gym Gloves,4,8510,15,Cash on Delivery,4.0,0
+423,2024-03-28,8,Kolkata,Home,Lamp,1,34055,5,UPI,1.0,0
+424,2024-11-17,146,Mumbai,Home,Mixer,5,1026,0,Credit Card,2.0,0
+425,2024-04-29,147,Kolkata,Electronics,Smartwatch,1,25295,5,Debit Card,4.0,0
+426,2024-01-13,243,Mumbai,Clothing,T-Shirt,1,36876,15,Debit Card,1.0,1
+427,2024-03-25,266,Kolkata,Clothing,Dress,5,20884,5,Cash on Delivery,,0
+428,2023-03-25,155,Bangalore,Clothing,Jeans,1,40612,15,Cash on Delivery,5.0,1
+429,2023-03-22,268,Delhi,Electronics,Headphones,3,6331,5,UPI,3.0,0
+430,2023-12-23,213,Mumbai,Clothing,T-Shirt,5,2298,5,Debit Card,,0
+431,2023-10-21,284,Hyderabad,Sports,Yoga Mat,1,7746,0,Debit Card,5.0,0
+432,2024-01-10,73,Mumbai,Electronics,Smartphone,2,35726,20,Debit Card,5.0,0
+433,2024-03-26,195,Mumbai,Electronics,Headphones,4,28311,5,UPI,4.0,0
+434,2024-07-13,160,Hyderabad,Home,Chair,1,3434,10,Cash on Delivery,2.0,0
+435,2024-03-15,156,Delhi,Sports,Tennis Racket,4,20684,5,Cash on Delivery,5.0,0
+436,2023-07-12,47,Pune,Sports,Tennis Racket,5,26467,0,Debit Card,4.0,0
+437,2024-02-23,126,Bangalore,Electronics,Tablet,2,40679,5,Cash on Delivery,3.0,0
+438,2024-11-18,116,Mumbai,Clothing,Shoes,5,14003,5,Debit Card,4.0,0
+439,2024-03-09,67,Mumbai,Electronics,Laptop,4,6044,20,Debit Card,3.0,0
+440,2024-03-23,234,Chennai,Home,Chair,2,42438,10,Cash on Delivery,3.0,0
+441,2024-07-02,170,Mumbai,Clothing,Dress,3,2469,20,Cash on Delivery,4.0,0
+442,2023-07-20,285,Chennai,Electronics,Headphones,4,1085,15,Cash on Delivery,5.0,0
+443,2023-10-05,68,Bangalore,Home,Mixer,4,35004,20,Cash on Delivery,5.0,0
+444,2023-12-31,42,Pune,Home,Table,1,2232,5,Credit Card,2.0,0
+445,2023-12-07,21,Pune,Electronics,Smartphone,3,5157,0,Cash on Delivery,4.0,0
+446,2024-08-26,280,Bangalore,Electronics,Smartphone,4,10014,0,Credit Card,5.0,0
+447,2024-03-10,273,Hyderabad,Home,Lamp,2,27062,15,UPI,3.0,0
+448,2023-06-14,8,Mumbai,Clothing,Dress,1,44995,5,Debit Card,4.0,0
+449,2023-03-05,91,Chennai,Sports,Cricket Bat,5,43471,10,Credit Card,5.0,0
+450,2023-09-03,149,Mumbai,Home,Chair,5,3930,15,Debit Card,,0
+451,2023-07-03,20,Bangalore,Clothing,T-Shirt,4,7984,0,Credit Card,1.0,0
+452,2023-05-27,154,Hyderabad,Sports,Yoga Mat,4,14193,0,UPI,4.0,0
+453,2024-02-21,216,Kolkata,Home,Lamp,2,38415,10,Cash on Delivery,3.0,0
+454,2024-04-09,179,Mumbai,Clothing,Shoes,1,39710,5,Cash on Delivery,5.0,1
+455,2024-11-17,239,Delhi,Clothing,T-Shirt,2,21383,10,UPI,4.0,0
+456,2023-04-26,225,Kolkata,Sports,Football,3,19803,0,Cash on Delivery,3.0,0
+457,2023-01-13,189,Kolkata,Electronics,Headphones,3,2790,20,Debit Card,2.0,0
+458,2024-07-19,298,Chennai,Electronics,Smartwatch,5,6145,10,Debit Card,,0
+459,2024-10-25,35,Kolkata,Home,Cookware,4,39405,0,Credit Card,,1
+460,2023-09-21,282,Delhi,Home,Table,3,12606,5,UPI,1.0,0
+461,2023-01-25,37,Delhi,Clothing,Jeans,3,1388,15,Cash on Delivery,1.0,0
+462,2023-07-07,128,Chennai,Electronics,Headphones,5,43027,20,Debit Card,1.0,0
+463,2023-04-14,23,Delhi,Sports,Yoga Mat,4,29518,5,UPI,1.0,0
+464,2023-12-21,72,Hyderabad,Electronics,Headphones,4,8905,10,Cash on Delivery,3.0,0
+465,2023-02-14,61,Pune,Sports,Gym Gloves,5,45016,5,UPI,3.0,0
+466,2024-01-10,162,Kolkata,Clothing,Jacket,2,15571,0,UPI,2.0,0
+467,2024-04-18,13,Kolkata,Sports,Gym Gloves,4,39533,5,Debit Card,4.0,0
+468,2024-09-21,221,Kolkata,Clothing,Shoes,3,3251,10,Credit Card,5.0,0
+469,2024-06-16,53,Chennai,Clothing,Dress,1,15892,20,UPI,3.0,0
+470,2023-01-10,54,Delhi,Electronics,Smartwatch,1,16866,5,Debit Card,4.0,0
+471,2024-02-16,53,Mumbai,Clothing,Jeans,2,15673,5,Credit Card,,0
+472,2024-04-15,264,Mumbai,Home,Table,4,34296,10,UPI,2.0,0
+473,2024-09-30,75,Kolkata,Home,Cookware,2,38013,5,Debit Card,1.0,0
+474,2023-06-03,274,Chennai,Clothing,Jacket,1,23845,20,UPI,,0
+475,2024-01-25,157,Chennai,Clothing,Shoes,2,14387,0,Credit Card,4.0,0
+476,2023-05-17,162,Kolkata,Clothing,Shoes,1,6038,10,Debit Card,4.0,0
+477,2023-05-21,83,Bangalore,Electronics,Laptop,2,48314,10,UPI,1.0,0
+478,2024-11-28,218,Pune,Home,Cookware,4,44752,0,Cash on Delivery,5.0,0
+479,2023-06-24,23,Kolkata,Electronics,Tablet,3,45060,5,Debit Card,5.0,0
+480,2024-06-19,11,Delhi,Home,Chair,5,30096,0,Cash on Delivery,1.0,0
+481,2024-06-16,211,Bangalore,Home,Chair,1,10121,0,UPI,4.0,1
+482,2024-07-06,146,Hyderabad,Clothing,Dress,1,17808,15,Cash on Delivery,,0
+483,2023-01-13,210,Mumbai,Sports,Football,1,9383,0,Credit Card,5.0,0
+484,2023-11-25,166,Kolkata,Home,Lamp,2,16187,0,Debit Card,3.0,0
+485,2023-06-22,237,Pune,Sports,Football,1,28047,20,Debit Card,2.0,0
+486,2023-01-28,149,Delhi,Electronics,Headphones,4,47677,10,Cash on Delivery,4.0,0
+487,2023-09-09,235,Hyderabad,Electronics,Headphones,1,8847,20,Credit Card,3.0,0
+488,2024-07-18,44,Bangalore,Clothing,T-Shirt,1,4513,5,Debit Card,5.0,0
+489,2024-02-02,138,Hyderabad,Sports,Yoga Mat,5,20432,5,Credit Card,3.0,0
+490,2024-06-19,29,Chennai,Clothing,Jacket,1,36321,15,Debit Card,3.0,0
+491,2023-08-18,119,Hyderabad,Clothing,Jeans,2,19943,5,Cash on Delivery,4.0,0
+492,2024-11-28,283,Hyderabad,Sports,Tennis Racket,1,43411,15,UPI,,0
+493,2024-11-04,134,Chennai,Electronics,Tablet,3,49161,0,Cash on Delivery,5.0,0
+494,2024-06-11,208,Chennai,Clothing,Jeans,2,20393,15,Debit Card,3.0,0
+495,2023-08-13,217,Mumbai,Electronics,Laptop,5,21236,10,Cash on Delivery,5.0,0
+496,2024-05-03,157,Chennai,Sports,Tennis Racket,4,45971,10,UPI,2.0,0
+497,2024-04-15,218,Delhi,Electronics,Tablet,5,34170,15,Debit Card,4.0,1
+498,2024-08-30,143,Mumbai,Home,Chair,1,33698,20,UPI,4.0,0
+499,2024-05-06,199,Chennai,Sports,Cricket Bat,1,38758,5,Credit Card,2.0,0
+500,2023-10-28,267,Mumbai,Home,Table,1,46773,10,UPI,5.0,0
+501,2024-05-05,49,Hyderabad,Sports,Yoga Mat,4,7306,15,Debit Card,4.0,0
+502,2024-11-16,242,Bangalore,Electronics,Smartphone,4,42852,0,Cash on Delivery,2.0,0
+503,2024-04-03,248,Chennai,Home,Lamp,5,6239,0,Debit Card,,0
+504,2023-05-02,277,Chennai,Clothing,Jeans,3,45069,20,Cash on Delivery,,0
+505,2023-08-11,222,Bangalore,Electronics,Laptop,2,31733,20,Credit Card,3.0,0
+506,2024-05-07,235,Chennai,Home,Chair,5,43827,15,Cash on Delivery,4.0,0
+507,2024-06-06,156,Chennai,Clothing,Shoes,3,27256,5,Credit Card,4.0,1
+508,2023-03-31,139,Mumbai,Home,Table,4,26151,10,Credit Card,5.0,0
+509,2023-06-03,260,Kolkata,Sports,Yoga Mat,3,39170,5,Debit Card,4.0,0
+510,2024-09-10,299,Pune,Home,Table,3,28301,0,Cash on Delivery,5.0,1
+511,2023-12-28,8,Pune,Home,Chair,2,5666,20,UPI,,0
+512,2023-07-06,84,Kolkata,Home,Lamp,1,21842,0,UPI,2.0,0
+513,2023-03-15,36,Mumbai,Sports,Yoga Mat,4,12724,20,UPI,5.0,0
+514,2023-06-19,252,Kolkata,Sports,Tennis Racket,4,37077,10,Credit Card,2.0,0
+515,2023-06-04,141,Hyderabad,Electronics,Smartwatch,3,27713,20,Credit Card,5.0,0
+516,2024-06-29,129,Pune,Sports,Football,1,40995,10,Credit Card,1.0,0
+517,2024-02-08,117,Kolkata,Electronics,Smartwatch,1,28782,15,UPI,,1
+518,2023-01-17,274,Hyderabad,Clothing,T-Shirt,1,20358,5,Debit Card,5.0,0
+519,2023-03-23,114,Hyderabad,Sports,Football,4,17376,10,Credit Card,1.0,0
+520,2023-09-23,203,Pune,Sports,Yoga Mat,5,30399,15,Cash on Delivery,1.0,0
+521,2023-10-05,237,Chennai,Electronics,Smartphone,2,26092,0,Credit Card,1.0,1
+522,2024-10-22,99,Chennai,Home,Chair,5,3171,10,Cash on Delivery,4.0,0
+523,2023-07-18,154,Hyderabad,Home,Cookware,3,1432,15,Debit Card,5.0,0
+524,2023-03-25,242,Chennai,Home,Lamp,4,44098,5,Cash on Delivery,4.0,0
+525,2023-04-22,103,Mumbai,Clothing,Jeans,1,42651,10,Debit Card,,0
+526,2023-09-28,195,Pune,Clothing,Jacket,1,21254,15,Debit Card,3.0,0
+527,2024-06-19,24,Mumbai,Clothing,Dress,5,15823,5,Cash on Delivery,2.0,0
+528,2023-09-05,116,Pune,Home,Table,2,27356,20,Debit Card,5.0,0
+529,2024-05-23,249,Chennai,Home,Mixer,5,37844,0,Cash on Delivery,4.0,0
+530,2023-11-13,212,Pune,Sports,Tennis Racket,5,42933,20,Credit Card,3.0,0
+531,2023-02-07,239,Mumbai,Home,Mixer,4,12551,15,UPI,1.0,0
+532,2024-06-20,112,Kolkata,Home,Chair,2,35817,20,Debit Card,3.0,0
+533,2023-02-16,228,Delhi,Sports,Football,1,21275,10,Debit Card,,0
+534,2023-09-29,59,Bangalore,Home,Cookware,5,18675,0,Credit Card,2.0,0
+535,2024-10-12,10,Kolkata,Clothing,T-Shirt,3,31181,0,Credit Card,,0
+536,2023-04-21,153,Bangalore,Clothing,T-Shirt,4,22363,15,Cash on Delivery,3.0,0
+537,2024-07-16,292,Bangalore,Home,Chair,1,38378,0,Credit Card,1.0,1
+538,2023-07-17,1,Delhi,Electronics,Smartwatch,2,20883,10,Cash on Delivery,2.0,0
+539,2024-11-11,73,Kolkata,Sports,Gym Gloves,1,36732,5,Credit Card,5.0,0
+540,2024-05-29,63,Mumbai,Home,Lamp,4,42591,20,UPI,1.0,0
+541,2024-04-18,271,Delhi,Electronics,Smartwatch,5,35298,0,UPI,4.0,0
+542,2023-02-12,78,Pune,Clothing,Dress,4,6333,0,Credit Card,2.0,0
+543,2023-11-11,168,Pune,Electronics,Tablet,2,37864,15,Cash on Delivery,3.0,0
+544,2023-08-28,147,Bangalore,Clothing,Jacket,5,39494,20,UPI,4.0,0
+545,2024-10-21,95,Chennai,Home,Table,3,1781,0,UPI,4.0,0
+546,2023-11-09,7,Hyderabad,Home,Lamp,2,19777,10,Cash on Delivery,,0
+547,2023-06-28,210,Hyderabad,Clothing,Shoes,3,12189,10,Debit Card,4.0,0
+548,2023-01-12,126,Mumbai,Clothing,T-Shirt,4,41228,0,Credit Card,5.0,0
+549,2023-04-07,5,Kolkata,Sports,Tennis Racket,3,16823,0,Credit Card,1.0,0
+550,2023-02-02,50,Pune,Electronics,Headphones,5,39329,10,Debit Card,1.0,0
+551,2023-10-16,141,Chennai,Clothing,Jeans,5,26349,15,Cash on Delivery,4.0,0
+552,2024-02-08,29,Mumbai,Sports,Yoga Mat,3,25003,20,UPI,2.0,1
+553,2024-07-27,157,Delhi,Sports,Cricket Bat,1,29540,5,Credit Card,2.0,0
+554,2023-11-14,169,Delhi,Sports,Tennis Racket,2,30320,15,UPI,5.0,0
+555,2024-11-19,204,Delhi,Home,Chair,4,14556,10,Cash on Delivery,3.0,0
+556,2023-07-27,2,Mumbai,Home,Lamp,2,32388,10,UPI,4.0,0
+557,2024-10-30,230,Kolkata,Home,Lamp,2,32482,10,Credit Card,4.0,0
+558,2024-01-02,290,Hyderabad,Electronics,Laptop,4,29567,10,Debit Card,,1
+559,2024-04-25,48,Kolkata,Clothing,Dress,3,4149,0,Debit Card,,0
+560,2024-03-27,65,Mumbai,Electronics,Headphones,4,18989,20,Credit Card,3.0,0
+561,2024-10-23,48,Hyderabad,Clothing,Jeans,2,15738,10,Credit Card,5.0,0
+562,2023-10-11,68,Mumbai,Sports,Yoga Mat,4,19145,0,Cash on Delivery,1.0,0
+563,2024-02-24,73,Pune,Sports,Yoga Mat,3,2220,5,Credit Card,5.0,0
+564,2023-02-23,178,Pune,Clothing,Shoes,1,38005,5,UPI,3.0,0
+565,2024-08-27,73,Kolkata,Sports,Yoga Mat,5,29338,15,Debit Card,3.0,0
+566,2024-01-12,41,Bangalore,Electronics,Smartwatch,4,45116,10,UPI,2.0,0
+567,2023-05-31,111,Chennai,Clothing,Shoes,5,28627,0,Credit Card,4.0,0
+568,2023-10-26,290,Pune,Clothing,Jacket,1,22820,20,Cash on Delivery,3.0,0
+569,2024-06-11,94,Kolkata,Electronics,Smartphone,3,17868,10,Cash on Delivery,2.0,0
+570,2023-11-15,77,Hyderabad,Electronics,Smartwatch,3,5583,10,UPI,,0
+571,2024-11-21,209,Chennai,Sports,Football,1,1314,10,Cash on Delivery,1.0,0
+572,2024-11-24,37,Bangalore,Sports,Yoga Mat,3,8324,0,Cash on Delivery,1.0,0
+573,2024-07-23,123,Hyderabad,Home,Mixer,3,35885,20,Debit Card,4.0,0
+574,2024-09-10,37,Chennai,Electronics,Smartphone,4,28573,15,UPI,4.0,0
+575,2023-08-02,256,Mumbai,Electronics,Tablet,3,7652,20,UPI,5.0,0
+576,2023-01-03,242,Hyderabad,Electronics,Laptop,4,32007,0,UPI,1.0,0
+577,2024-10-06,202,Delhi,Home,Chair,5,5403,20,Credit Card,4.0,0
+578,2024-08-17,291,Hyderabad,Sports,Tennis Racket,3,35736,15,Cash on Delivery,4.0,0
+579,2023-10-10,234,Bangalore,Sports,Gym Gloves,4,2487,15,Credit Card,1.0,0
+580,2023-11-07,32,Delhi,Home,Mixer,2,14687,0,Cash on Delivery,5.0,0
+581,2023-11-10,295,Pune,Clothing,Jeans,2,1500,5,UPI,1.0,0
+582,2023-04-19,35,Hyderabad,Electronics,Headphones,5,436,10,Cash on Delivery,,0
+583,2023-03-17,214,Delhi,Sports,Football,5,33154,0,Cash on Delivery,1.0,0
+584,2024-11-02,46,Mumbai,Home,Cookware,5,28546,20,Credit Card,4.0,0
+585,2024-03-25,134,Pune,Electronics,Laptop,5,5820,20,Cash on Delivery,4.0,0
+586,2024-02-20,122,Delhi,Electronics,Smartphone,1,41980,10,UPI,2.0,0
+587,2023-08-22,28,Bangalore,Electronics,Smartwatch,3,44239,5,Cash on Delivery,3.0,0
+588,2024-10-25,72,Kolkata,Electronics,Smartphone,3,47521,15,UPI,3.0,0
+589,2023-01-19,195,Delhi,Sports,Gym Gloves,1,19689,0,Credit Card,2.0,0
+590,2023-12-20,141,Chennai,Electronics,Smartphone,2,8940,20,Debit Card,,0
+591,2024-07-13,245,Mumbai,Clothing,Shoes,5,12507,20,Debit Card,5.0,0
+592,2023-11-21,282,Delhi,Clothing,Jacket,2,6460,20,Credit Card,1.0,0
+593,2023-07-12,241,Mumbai,Sports,Tennis Racket,2,33884,20,UPI,,0
+594,2024-09-20,282,Chennai,Clothing,Dress,1,32430,20,Cash on Delivery,4.0,0
+595,2023-04-03,86,Kolkata,Electronics,Headphones,4,42356,0,Cash on Delivery,1.0,0
+596,2023-07-18,206,Hyderabad,Home,Chair,3,7073,0,Credit Card,5.0,0
+597,2023-05-19,181,Delhi,Home,Chair,2,29400,10,Cash on Delivery,,0
+598,2024-10-09,22,Mumbai,Clothing,Jeans,2,43742,5,Credit Card,,0
+599,2023-12-01,220,Chennai,Sports,Cricket Bat,1,39059,15,Cash on Delivery,4.0,0
+600,2023-11-29,45,Chennai,Sports,Yoga Mat,5,37245,5,Credit Card,,0
+601,2023-11-19,3,Mumbai,Sports,Football,5,33702,5,Credit Card,,0
+602,2024-05-21,60,Hyderabad,Home,Mixer,3,27497,15,Debit Card,4.0,0
+603,2023-03-03,256,Kolkata,Electronics,Smartwatch,3,8326,10,Credit Card,1.0,0
+604,2024-05-18,207,Hyderabad,Electronics,Headphones,4,18189,20,UPI,1.0,0
+605,2024-01-03,295,Pune,Electronics,Smartphone,1,16933,5,Credit Card,2.0,0
+606,2024-06-24,59,Pune,Sports,Football,3,24555,15,Debit Card,4.0,0
+607,2024-03-17,215,Delhi,Home,Mixer,4,34993,20,Credit Card,3.0,0
+608,2024-04-14,62,Delhi,Electronics,Tablet,2,789,20,Credit Card,2.0,0
+609,2023-02-09,237,Chennai,Sports,Football,5,39478,10,Debit Card,3.0,0
+610,2024-01-30,207,Hyderabad,Home,Chair,4,41909,15,Debit Card,1.0,0
+611,2024-10-19,224,Mumbai,Home,Lamp,2,6839,10,Cash on Delivery,1.0,0
+612,2024-11-08,222,Pune,Sports,Cricket Bat,1,37402,10,Cash on Delivery,5.0,0
+613,2024-01-13,110,Mumbai,Home,Cookware,5,22795,15,Debit Card,5.0,0
+614,2024-04-24,279,Chennai,Sports,Cricket Bat,2,48864,15,Credit Card,,0
+615,2023-07-23,161,Mumbai,Clothing,T-Shirt,2,20624,15,Cash on Delivery,4.0,0
+616,2024-02-09,96,Delhi,Home,Cookware,5,39786,20,Debit Card,3.0,0
+617,2024-11-18,217,Chennai,Clothing,Dress,4,36259,5,Credit Card,,0
+618,2023-08-18,258,Kolkata,Sports,Yoga Mat,5,13042,20,Debit Card,3.0,0
+619,2023-10-03,140,Kolkata,Home,Chair,5,45099,10,Cash on Delivery,3.0,1
+620,2024-04-02,163,Kolkata,Sports,Football,3,39691,20,Debit Card,5.0,0
+621,2024-11-29,291,Kolkata,Clothing,Jeans,3,46367,10,Cash on Delivery,,0
+622,2024-11-25,207,Kolkata,Clothing,Shoes,2,17675,15,UPI,3.0,0
+623,2023-05-05,138,Pune,Electronics,Laptop,3,46587,20,UPI,3.0,0
+624,2024-11-13,74,Delhi,Electronics,Tablet,5,5960,10,Credit Card,5.0,0
+625,2024-10-12,110,Bangalore,Electronics,Smartphone,4,48475,10,Credit Card,2.0,0
+626,2024-07-16,149,Bangalore,Sports,Tennis Racket,5,3562,10,Cash on Delivery,4.0,0
+627,2024-11-08,14,Bangalore,Sports,Cricket Bat,1,2517,15,Cash on Delivery,3.0,1
+628,2024-04-15,75,Chennai,Electronics,Laptop,5,19910,5,Debit Card,5.0,0
+629,2023-07-01,64,Chennai,Home,Mixer,1,870,0,Cash on Delivery,4.0,0
+630,2023-04-03,142,Bangalore,Clothing,T-Shirt,4,10241,5,Credit Card,2.0,0
+631,2023-02-12,207,Chennai,Clothing,Jeans,1,8866,10,Debit Card,4.0,0
+632,2023-06-05,184,Pune,Home,Lamp,4,47569,10,Cash on Delivery,2.0,0
+633,2024-03-13,26,Hyderabad,Electronics,Headphones,5,25680,0,Cash on Delivery,3.0,0
+634,2023-01-08,29,Mumbai,Clothing,Jeans,3,11713,15,UPI,2.0,0
+635,2024-06-02,45,Hyderabad,Electronics,Laptop,4,29599,10,Cash on Delivery,3.0,0
+636,2023-06-28,212,Hyderabad,Sports,Yoga Mat,3,40450,0,UPI,5.0,0
+637,2024-01-01,276,Bangalore,Electronics,Smartphone,1,34298,20,Cash on Delivery,4.0,0
+638,2023-03-05,298,Chennai,Sports,Tennis Racket,4,13532,0,UPI,,0
+639,2023-03-12,58,Delhi,Electronics,Smartphone,3,48525,5,Cash on Delivery,2.0,0
+640,2024-07-17,271,Bangalore,Home,Mixer,2,32401,5,Debit Card,5.0,0
+641,2023-02-25,110,Pune,Electronics,Smartphone,5,26916,15,Debit Card,5.0,0
+642,2023-02-18,125,Chennai,Electronics,Smartphone,4,17333,15,Credit Card,5.0,0
+643,2023-08-11,166,Mumbai,Sports,Cricket Bat,5,45125,15,Credit Card,,0
+644,2023-07-11,266,Pune,Clothing,Shoes,3,35079,20,Cash on Delivery,,0
+645,2024-03-21,145,Pune,Home,Chair,4,19867,15,Credit Card,1.0,0
+646,2023-06-30,184,Kolkata,Electronics,Smartwatch,2,37988,5,Debit Card,2.0,0
+647,2024-01-06,106,Hyderabad,Electronics,Laptop,5,5508,5,Credit Card,5.0,1
+648,2023-08-06,219,Chennai,Electronics,Headphones,1,20819,15,Cash on Delivery,5.0,0
+649,2024-03-03,38,Kolkata,Home,Mixer,1,746,15,Debit Card,3.0,0
+650,2024-03-14,295,Delhi,Sports,Gym Gloves,1,33294,5,Debit Card,4.0,0
+651,2023-08-17,77,Delhi,Sports,Gym Gloves,5,27800,0,Cash on Delivery,1.0,0
+652,2024-11-02,187,Mumbai,Electronics,Smartwatch,4,22823,0,Credit Card,,0
+653,2024-02-16,131,Mumbai,Electronics,Laptop,4,16736,10,Credit Card,5.0,0
+654,2023-01-06,206,Kolkata,Sports,Football,5,7155,0,Cash on Delivery,3.0,1
+655,2023-12-15,255,Bangalore,Home,Lamp,3,7543,0,UPI,5.0,0
+656,2024-08-18,13,Hyderabad,Electronics,Headphones,1,27210,20,Debit Card,5.0,0
+657,2024-05-14,205,Delhi,Home,Mixer,2,8412,15,UPI,1.0,0
+658,2023-09-30,58,Hyderabad,Clothing,Dress,1,4268,20,Cash on Delivery,2.0,1
+659,2023-08-17,156,Bangalore,Electronics,Laptop,3,12037,10,Debit Card,1.0,0
+660,2024-05-25,286,Chennai,Electronics,Smartwatch,2,11297,5,Debit Card,5.0,0
+661,2023-06-20,94,Mumbai,Sports,Cricket Bat,5,31257,5,Cash on Delivery,5.0,0
+662,2024-09-19,143,Kolkata,Sports,Cricket Bat,1,27859,10,Credit Card,1.0,0
+663,2024-04-15,180,Delhi,Clothing,Dress,4,39690,20,Credit Card,,0
+664,2023-02-13,227,Mumbai,Home,Lamp,4,35764,0,Cash on Delivery,3.0,0
+665,2024-04-25,237,Delhi,Clothing,T-Shirt,1,36939,15,Cash on Delivery,,1
+666,2023-11-17,107,Mumbai,Home,Chair,3,15849,15,Cash on Delivery,2.0,0
+667,2024-04-25,221,Mumbai,Electronics,Headphones,3,48266,0,Credit Card,5.0,0
+668,2024-05-07,192,Chennai,Sports,Yoga Mat,2,45969,20,Credit Card,3.0,0
+669,2024-01-06,139,Delhi,Sports,Cricket Bat,1,43228,10,Debit Card,1.0,0
+670,2024-10-29,273,Mumbai,Electronics,Tablet,2,25962,10,Cash on Delivery,,0
+671,2024-01-06,244,Mumbai,Home,Chair,4,45293,20,Cash on Delivery,4.0,0
+672,2023-09-26,58,Mumbai,Clothing,Jacket,1,12239,5,Credit Card,1.0,0
+673,2023-09-09,238,Delhi,Sports,Tennis Racket,4,6526,5,Cash on Delivery,3.0,0
+674,2024-03-22,208,Kolkata,Home,Lamp,2,12797,0,Cash on Delivery,2.0,1
+675,2023-10-14,142,Hyderabad,Clothing,Jacket,4,44219,15,Debit Card,5.0,0
+676,2024-05-24,118,Bangalore,Sports,Tennis Racket,2,5998,5,Credit Card,2.0,1
+677,2023-07-30,152,Bangalore,Clothing,Shoes,4,33003,5,Cash on Delivery,5.0,0
+678,2023-09-28,163,Pune,Clothing,Dress,3,11003,0,Debit Card,4.0,0
+679,2023-12-17,140,Kolkata,Electronics,Tablet,4,15941,5,Cash on Delivery,4.0,0
+680,2024-07-31,158,Delhi,Clothing,Jacket,1,42529,0,Debit Card,3.0,0
+681,2024-09-19,214,Pune,Clothing,Dress,1,29823,0,Cash on Delivery,5.0,0
+682,2023-05-23,250,Chennai,Electronics,Tablet,1,46239,20,Cash on Delivery,,0
+683,2023-03-11,113,Chennai,Sports,Yoga Mat,1,31808,0,Cash on Delivery,3.0,0
+684,2024-10-22,227,Kolkata,Electronics,Headphones,4,49542,5,UPI,,0
+685,2023-06-29,200,Kolkata,Electronics,Smartphone,3,10677,0,Debit Card,3.0,0
+686,2023-02-25,237,Bangalore,Clothing,Shoes,5,34784,20,Cash on Delivery,,0
+687,2024-03-24,188,Bangalore,Home,Chair,1,30566,5,UPI,3.0,0
+688,2024-08-24,205,Delhi,Electronics,Headphones,4,39319,15,Credit Card,3.0,0
+689,2024-08-28,103,Hyderabad,Sports,Tennis Racket,5,41991,5,Cash on Delivery,2.0,0
+690,2024-08-10,278,Bangalore,Clothing,Jacket,2,46626,15,Cash on Delivery,5.0,0
+691,2024-11-24,209,Hyderabad,Electronics,Headphones,1,29732,5,UPI,,0
+692,2024-06-12,90,Mumbai,Electronics,Smartphone,5,47411,0,Debit Card,5.0,0
+693,2023-06-12,14,Pune,Home,Chair,1,889,20,Credit Card,5.0,0
+694,2024-02-19,245,Hyderabad,Sports,Tennis Racket,5,49720,0,UPI,3.0,0
+695,2024-02-11,217,Mumbai,Sports,Gym Gloves,5,13569,5,UPI,2.0,0
+696,2024-01-25,198,Pune,Home,Mixer,5,17669,15,UPI,3.0,0
+697,2023-09-06,14,Kolkata,Electronics,Headphones,2,9903,0,UPI,,0
+698,2024-07-28,239,Chennai,Clothing,Jeans,4,44194,10,Credit Card,4.0,0
+699,2024-09-03,163,Chennai,Clothing,Jacket,3,26814,15,Cash on Delivery,2.0,0
+700,2023-11-23,50,Pune,Sports,Football,5,23208,0,Cash on Delivery,1.0,0
+701,2023-05-08,239,Kolkata,Clothing,Jeans,4,44472,5,Cash on Delivery,,0
+702,2023-07-09,284,Kolkata,Sports,Cricket Bat,3,47099,15,Credit Card,5.0,0
+703,2023-06-08,201,Hyderabad,Sports,Yoga Mat,3,29107,10,Cash on Delivery,5.0,0
+704,2023-05-05,286,Delhi,Electronics,Smartphone,4,35486,5,Debit Card,2.0,0
+705,2024-02-27,60,Bangalore,Electronics,Smartwatch,2,38384,20,Credit Card,2.0,0
+706,2023-12-16,122,Delhi,Home,Lamp,5,19394,20,Cash on Delivery,5.0,0
+707,2023-05-26,271,Kolkata,Electronics,Headphones,4,3464,5,Cash on Delivery,2.0,0
+708,2023-01-06,112,Hyderabad,Home,Table,5,9717,15,Cash on Delivery,3.0,0
+709,2024-02-05,96,Mumbai,Electronics,Headphones,2,4022,10,Cash on Delivery,4.0,0
+710,2024-02-20,214,Chennai,Clothing,Jacket,1,33876,10,UPI,,0
+711,2024-05-29,76,Bangalore,Clothing,Jacket,1,20735,10,Credit Card,,0
+712,2023-03-24,125,Delhi,Home,Mixer,1,14886,0,Debit Card,5.0,0
+713,2023-08-25,248,Hyderabad,Clothing,Shoes,1,36039,5,Cash on Delivery,1.0,0
+714,2024-08-28,127,Hyderabad,Clothing,Shoes,2,25892,5,Cash on Delivery,1.0,0
+715,2023-04-09,11,Kolkata,Clothing,Dress,3,8607,5,Credit Card,5.0,0
+716,2024-03-23,64,Mumbai,Clothing,Dress,5,27826,0,Credit Card,2.0,1
+717,2023-11-27,272,Pune,Clothing,Jacket,2,25853,10,Cash on Delivery,1.0,0
+718,2024-10-17,262,Bangalore,Electronics,Headphones,3,8678,5,Cash on Delivery,1.0,0
+719,2023-11-29,246,Pune,Clothing,Jeans,2,16759,15,Cash on Delivery,2.0,0
+720,2023-01-12,141,Kolkata,Sports,Gym Gloves,3,4986,15,Cash on Delivery,,0
+721,2024-06-03,90,Hyderabad,Sports,Gym Gloves,5,17148,15,Credit Card,4.0,0
+722,2024-09-04,151,Bangalore,Electronics,Smartwatch,5,32218,15,Credit Card,,0
+723,2023-07-14,228,Mumbai,Home,Mixer,5,34472,20,Credit Card,,0
+724,2023-03-05,165,Pune,Home,Cookware,5,21397,20,Cash on Delivery,3.0,1
+725,2023-06-13,224,Chennai,Sports,Yoga Mat,5,14271,0,UPI,2.0,0
+726,2024-04-15,34,Pune,Electronics,Headphones,4,16728,10,Debit Card,5.0,0
+727,2024-01-02,231,Chennai,Electronics,Tablet,5,35649,15,Credit Card,3.0,0
+728,2023-05-28,9,Kolkata,Sports,Cricket Bat,4,23066,0,Credit Card,4.0,0
+729,2024-11-07,278,Hyderabad,Home,Mixer,5,25791,10,Debit Card,2.0,0
+730,2024-10-10,106,Hyderabad,Home,Mixer,4,30797,20,UPI,4.0,1
+731,2023-07-08,95,Pune,Clothing,Jeans,3,10980,20,Debit Card,5.0,0
+732,2023-07-13,273,Chennai,Sports,Football,3,1461,5,Credit Card,,0
+733,2023-12-07,4,Pune,Clothing,Jeans,3,32131,0,UPI,2.0,0
+734,2023-08-13,47,Mumbai,Home,Table,4,35722,0,Credit Card,4.0,0
+735,2023-04-18,19,Mumbai,Home,Lamp,2,30613,15,Debit Card,2.0,0
+736,2024-05-07,195,Pune,Electronics,Smartphone,2,46550,10,Cash on Delivery,4.0,0
+737,2024-10-17,182,Pune,Electronics,Headphones,3,15516,5,Credit Card,,0
+738,2024-03-19,298,Delhi,Clothing,Jeans,4,49220,20,Debit Card,1.0,0
+739,2023-09-03,208,Hyderabad,Clothing,Dress,1,41813,20,Credit Card,5.0,0
+740,2023-12-02,162,Hyderabad,Home,Chair,4,30278,0,Cash on Delivery,2.0,0
+741,2024-08-10,201,Hyderabad,Electronics,Laptop,4,5843,0,Debit Card,2.0,0
+742,2023-02-08,60,Hyderabad,Home,Chair,2,22491,15,Debit Card,2.0,0
+743,2024-01-21,159,Kolkata,Electronics,Laptop,4,49103,10,Cash on Delivery,1.0,1
+744,2024-09-04,156,Pune,Home,Mixer,5,41786,15,Cash on Delivery,4.0,0
+745,2024-10-19,216,Pune,Clothing,Dress,5,19353,20,Credit Card,,0
+746,2024-11-15,22,Mumbai,Sports,Tennis Racket,2,21111,15,Debit Card,,0
+747,2023-04-06,164,Chennai,Home,Table,5,46735,0,Credit Card,4.0,1
+748,2023-05-03,187,Kolkata,Sports,Tennis Racket,3,17346,20,UPI,5.0,0
+749,2023-12-03,87,Kolkata,Electronics,Laptop,3,5881,15,Cash on Delivery,,0
+750,2024-09-01,261,Pune,Electronics,Laptop,4,25556,15,Credit Card,5.0,0
+751,2023-09-02,287,Bangalore,Sports,Gym Gloves,3,2553,10,Cash on Delivery,3.0,0
+752,2023-09-08,212,Kolkata,Clothing,Jeans,3,38297,20,Debit Card,3.0,0
+753,2024-08-29,278,Bangalore,Clothing,Jacket,5,17009,0,Debit Card,2.0,0
+754,2023-03-13,247,Mumbai,Home,Mixer,4,19462,0,Credit Card,1.0,0
+755,2023-02-23,218,Kolkata,Electronics,Tablet,3,47314,10,Debit Card,3.0,0
+756,2024-03-12,111,Kolkata,Clothing,Dress,3,18924,5,UPI,1.0,0
+757,2023-04-22,161,Delhi,Electronics,Laptop,5,7793,20,Cash on Delivery,3.0,0
+758,2023-07-23,212,Chennai,Electronics,Smartphone,5,5894,15,Credit Card,5.0,0
+759,2023-04-12,173,Bangalore,Sports,Cricket Bat,4,16926,10,Debit Card,3.0,0
+760,2023-02-21,111,Kolkata,Electronics,Tablet,4,46465,15,Credit Card,5.0,0
+761,2023-07-19,298,Delhi,Sports,Cricket Bat,3,10750,15,Cash on Delivery,2.0,0
+762,2023-03-18,137,Bangalore,Electronics,Laptop,2,45250,10,Debit Card,4.0,0
+763,2024-10-27,42,Delhi,Home,Lamp,3,5175,10,Cash on Delivery,3.0,1
+764,2024-03-23,230,Bangalore,Clothing,Jeans,2,29398,10,UPI,1.0,0
+765,2023-02-21,263,Mumbai,Clothing,Dress,1,49294,10,Credit Card,3.0,1
+766,2024-10-27,140,Chennai,Clothing,Dress,4,43204,15,Cash on Delivery,3.0,1
+767,2023-09-26,89,Bangalore,Clothing,T-Shirt,5,33667,0,Credit Card,5.0,0
+768,2023-03-16,7,Kolkata,Electronics,Smartwatch,1,43423,15,Cash on Delivery,,0
+769,2023-08-03,279,Mumbai,Home,Chair,4,30433,0,Credit Card,2.0,0
+770,2023-02-23,29,Kolkata,Clothing,Jacket,1,4933,0,UPI,3.0,0
+771,2023-09-30,208,Chennai,Clothing,Shoes,3,25673,15,Debit Card,,0
+772,2023-12-24,106,Delhi,Electronics,Headphones,5,21464,0,Credit Card,3.0,0
+773,2024-05-04,7,Kolkata,Sports,Tennis Racket,4,25381,0,UPI,,0
+774,2024-10-11,230,Hyderabad,Clothing,Dress,1,17876,5,UPI,3.0,0
+775,2023-07-07,4,Kolkata,Clothing,Dress,1,6167,20,UPI,1.0,0
+776,2024-04-01,189,Mumbai,Electronics,Headphones,2,10610,5,Credit Card,3.0,0
+777,2024-09-26,299,Hyderabad,Sports,Yoga Mat,3,47325,15,Debit Card,3.0,0
+778,2024-05-22,16,Pune,Clothing,Dress,1,49085,15,UPI,3.0,0
+779,2024-02-25,17,Bangalore,Electronics,Smartwatch,3,44362,15,UPI,,0
+780,2023-03-07,108,Bangalore,Home,Cookware,1,36783,10,UPI,4.0,0
+781,2023-09-12,253,Mumbai,Sports,Yoga Mat,2,48517,20,Cash on Delivery,1.0,0
+782,2024-01-25,70,Bangalore,Sports,Gym Gloves,2,35714,5,Credit Card,4.0,0
+783,2024-08-29,254,Mumbai,Home,Mixer,3,9616,5,UPI,5.0,0
+784,2023-08-17,12,Chennai,Clothing,Jeans,2,2380,5,Debit Card,,0
+785,2024-06-24,161,Kolkata,Sports,Yoga Mat,1,17953,20,UPI,3.0,0
+786,2023-06-21,274,Kolkata,Home,Chair,2,22495,20,Credit Card,3.0,0
+787,2023-07-05,95,Bangalore,Electronics,Smartphone,2,26647,20,Cash on Delivery,2.0,0
+788,2023-04-08,93,Chennai,Electronics,Tablet,3,13309,15,UPI,,0
+789,2024-07-20,251,Bangalore,Home,Cookware,2,28132,20,UPI,,0
+790,2023-09-22,150,Delhi,Clothing,T-Shirt,4,12766,0,Cash on Delivery,5.0,0
+791,2023-11-26,251,Chennai,Home,Table,2,36192,10,Debit Card,2.0,0
+792,2023-12-05,266,Delhi,Clothing,Jacket,5,26778,10,Debit Card,4.0,0
+793,2024-09-14,294,Mumbai,Electronics,Laptop,3,12081,15,Cash on Delivery,5.0,1
+794,2023-12-06,175,Bangalore,Home,Table,3,9395,5,Debit Card,4.0,0
+795,2023-07-14,9,Hyderabad,Electronics,Tablet,3,17240,20,Debit Card,4.0,0
+796,2024-02-29,278,Pune,Electronics,Tablet,5,17700,5,Credit Card,1.0,0
+797,2023-07-27,110,Mumbai,Home,Cookware,1,35381,10,UPI,1.0,0
+798,2024-11-30,154,Kolkata,Electronics,Smartphone,4,32388,0,UPI,,0
+799,2023-05-14,25,Delhi,Electronics,Laptop,1,3236,10,UPI,2.0,1
+800,2024-03-19,92,Hyderabad,Sports,Tennis Racket,3,27581,10,Credit Card,3.0,0
+801,2024-04-25,68,Chennai,Clothing,T-Shirt,1,31251,15,Cash on Delivery,,1
+802,2023-09-26,197,Delhi,Clothing,Jacket,3,42163,20,Cash on Delivery,1.0,0
+803,2024-01-05,175,Pune,Home,Lamp,2,19581,5,UPI,4.0,0
+804,2023-05-27,35,Chennai,Home,Mixer,2,34852,10,UPI,5.0,0
+805,2024-07-16,214,Pune,Clothing,Jeans,5,9943,0,UPI,,0
+806,2024-11-29,289,Hyderabad,Sports,Cricket Bat,4,21218,15,Debit Card,3.0,0
+807,2024-02-14,99,Bangalore,Home,Lamp,4,5596,20,Cash on Delivery,2.0,0
+808,2023-11-06,150,Delhi,Electronics,Headphones,5,16297,15,Debit Card,4.0,0
+809,2024-03-14,214,Delhi,Home,Table,4,9176,15,Cash on Delivery,5.0,0
+810,2023-03-06,134,Hyderabad,Home,Table,5,6340,0,Credit Card,3.0,0
+811,2024-05-05,146,Bangalore,Clothing,Jeans,3,49302,20,Cash on Delivery,1.0,0
+812,2024-04-10,88,Chennai,Electronics,Smartphone,3,21592,15,Debit Card,3.0,0
+813,2024-03-07,134,Bangalore,Electronics,Headphones,3,17365,5,Cash on Delivery,3.0,0
+814,2023-03-31,296,Delhi,Home,Mixer,5,16484,20,Credit Card,5.0,0
+815,2024-08-26,28,Bangalore,Sports,Gym Gloves,4,47504,20,Credit Card,1.0,0
+816,2023-05-14,249,Bangalore,Home,Mixer,2,42781,0,Credit Card,5.0,0
+817,2023-06-17,259,Hyderabad,Sports,Tennis Racket,5,42358,5,UPI,5.0,0
+818,2023-12-10,237,Delhi,Electronics,Smartwatch,3,45501,0,Cash on Delivery,3.0,0
+819,2024-05-22,126,Chennai,Electronics,Smartwatch,4,37316,20,UPI,3.0,0
+820,2023-01-25,16,Delhi,Sports,Football,2,520,10,Debit Card,,1
+821,2024-03-14,34,Pune,Home,Lamp,1,37644,5,Cash on Delivery,1.0,0
+822,2023-02-17,39,Hyderabad,Home,Lamp,5,6053,0,Debit Card,2.0,0
+823,2024-08-22,244,Delhi,Clothing,T-Shirt,1,23583,5,Credit Card,5.0,0
+824,2024-09-12,137,Bangalore,Electronics,Smartphone,4,45546,0,Credit Card,2.0,1
+825,2023-03-10,247,Mumbai,Sports,Gym Gloves,3,6308,15,Cash on Delivery,5.0,0
+826,2024-08-27,13,Mumbai,Electronics,Smartwatch,2,17306,5,Credit Card,4.0,1
+827,2023-01-08,67,Hyderabad,Sports,Tennis Racket,2,44520,0,Debit Card,,0
+828,2024-05-23,298,Delhi,Electronics,Laptop,5,38798,20,Debit Card,5.0,0
+829,2024-05-22,73,Pune,Electronics,Smartphone,5,17232,5,Debit Card,4.0,0
+830,2023-05-31,157,Kolkata,Clothing,T-Shirt,4,17474,20,Credit Card,,0
+831,2024-03-09,276,Chennai,Home,Chair,5,20770,0,UPI,4.0,0
+832,2023-01-13,122,Pune,Home,Lamp,5,7597,0,Credit Card,4.0,0
+833,2024-08-16,75,Pune,Electronics,Tablet,3,44005,10,Cash on Delivery,,0
+834,2024-04-11,144,Hyderabad,Clothing,T-Shirt,5,5374,10,UPI,1.0,0
+835,2023-07-02,270,Bangalore,Clothing,T-Shirt,1,1815,10,UPI,1.0,0
+836,2023-11-01,144,Delhi,Clothing,Jeans,4,48969,10,Cash on Delivery,,0
+837,2024-08-17,42,Chennai,Home,Mixer,2,10247,15,Debit Card,1.0,0
+838,2024-06-05,34,Bangalore,Electronics,Laptop,5,34098,10,Credit Card,4.0,0
+839,2023-05-06,174,Bangalore,Sports,Football,2,6658,20,Debit Card,3.0,0
+840,2023-10-11,75,Hyderabad,Electronics,Laptop,3,7337,5,UPI,,0
+841,2024-07-19,184,Hyderabad,Clothing,Shoes,3,40837,20,Cash on Delivery,,1
+842,2023-11-23,109,Hyderabad,Sports,Cricket Bat,3,43071,10,Cash on Delivery,1.0,0
+843,2024-01-22,246,Delhi,Clothing,Jacket,4,44366,10,Credit Card,5.0,0
+844,2023-03-28,41,Hyderabad,Home,Lamp,3,763,15,Credit Card,3.0,0
+845,2023-06-14,187,Chennai,Electronics,Smartwatch,5,9181,15,Credit Card,1.0,0
+846,2024-01-07,175,Hyderabad,Home,Chair,5,42843,10,Cash on Delivery,,0
+847,2023-01-24,116,Mumbai,Electronics,Laptop,5,29386,0,Cash on Delivery,2.0,0
+848,2023-09-28,50,Delhi,Clothing,Dress,2,5754,10,Credit Card,4.0,0
+849,2023-12-27,189,Pune,Electronics,Tablet,3,21481,20,Debit Card,,1
+850,2024-03-21,79,Pune,Sports,Yoga Mat,5,42284,5,Cash on Delivery,4.0,0
+851,2024-05-16,192,Chennai,Home,Table,5,23949,5,Debit Card,5.0,0
+852,2023-07-28,89,Delhi,Sports,Tennis Racket,3,14945,5,UPI,,0
+853,2023-01-22,291,Delhi,Home,Table,5,16104,20,UPI,5.0,0
+854,2023-09-30,130,Pune,Home,Mixer,2,36267,0,Cash on Delivery,4.0,0
+855,2023-11-21,69,Delhi,Home,Table,2,42121,0,Credit Card,4.0,0
+856,2024-03-01,185,Kolkata,Electronics,Smartphone,3,28112,0,Credit Card,2.0,0
+857,2024-03-14,157,Pune,Home,Table,4,40577,5,UPI,,0
+858,2023-04-07,1,Pune,Clothing,Shoes,1,27250,0,Cash on Delivery,4.0,0
+859,2023-02-28,32,Delhi,Home,Cookware,2,24134,10,Credit Card,1.0,0
+860,2024-11-30,70,Chennai,Home,Lamp,1,20194,15,UPI,,0
+861,2023-01-13,18,Chennai,Home,Table,2,44181,0,Credit Card,,0
+862,2024-03-01,79,Chennai,Clothing,Dress,5,25046,20,Debit Card,2.0,0
+863,2023-03-12,248,Bangalore,Clothing,Dress,3,3109,5,UPI,2.0,1
+864,2024-05-08,52,Chennai,Electronics,Smartphone,2,16876,15,Credit Card,2.0,0
+865,2024-03-06,298,Hyderabad,Electronics,Smartwatch,5,35589,0,UPI,3.0,0
+866,2023-03-06,182,Delhi,Home,Table,4,39171,10,Credit Card,1.0,0
+867,2024-09-02,62,Pune,Home,Cookware,3,38145,0,Debit Card,,0
+868,2024-05-13,42,Delhi,Electronics,Laptop,3,44543,20,Credit Card,2.0,0
+869,2023-10-21,207,Pune,Electronics,Smartwatch,2,41381,0,Debit Card,,1
+870,2024-07-22,291,Kolkata,Electronics,Headphones,3,16227,10,Cash on Delivery,2.0,0
+871,2023-11-17,179,Mumbai,Electronics,Headphones,4,35825,20,Debit Card,1.0,0
+872,2023-03-02,54,Kolkata,Clothing,Jeans,5,42811,15,Cash on Delivery,2.0,0
+873,2023-06-20,273,Delhi,Sports,Tennis Racket,1,44943,5,Debit Card,1.0,0
+874,2023-06-11,206,Pune,Clothing,Shoes,4,20082,15,Credit Card,,0
+875,2024-03-09,125,Kolkata,Sports,Tennis Racket,3,33069,5,Debit Card,1.0,0
+876,2024-03-13,239,Kolkata,Clothing,Jeans,1,48767,0,UPI,5.0,0
+877,2023-04-07,279,Bangalore,Sports,Yoga Mat,3,17585,20,Credit Card,2.0,0
+878,2023-04-07,36,Delhi,Home,Table,4,49478,5,UPI,5.0,0
+879,2023-05-10,55,Mumbai,Sports,Football,3,45540,20,UPI,2.0,0
+880,2023-03-20,67,Mumbai,Clothing,Jacket,5,3525,10,Credit Card,5.0,0
+881,2023-11-10,32,Hyderabad,Electronics,Headphones,1,23410,10,UPI,2.0,1
+882,2023-09-27,180,Delhi,Home,Cookware,1,48428,20,UPI,,0
+883,2023-05-06,209,Pune,Home,Lamp,2,4621,15,UPI,1.0,0
+884,2023-02-25,208,Hyderabad,Electronics,Laptop,2,14430,15,Cash on Delivery,1.0,0
+885,2024-05-08,187,Hyderabad,Sports,Football,3,16967,0,Cash on Delivery,2.0,0
+886,2023-09-28,89,Chennai,Sports,Tennis Racket,4,22941,20,Cash on Delivery,4.0,0
+887,2023-03-15,25,Pune,Electronics,Tablet,2,1292,10,Credit Card,5.0,0
+888,2023-12-10,120,Bangalore,Clothing,Dress,5,4436,20,UPI,1.0,0
+889,2023-12-18,137,Mumbai,Home,Mixer,5,5220,5,Debit Card,4.0,1
+890,2023-12-07,149,Mumbai,Electronics,Laptop,5,23645,5,Credit Card,2.0,0
+891,2024-05-10,212,Kolkata,Sports,Football,2,35389,5,UPI,5.0,0
+892,2023-06-06,223,Chennai,Electronics,Headphones,1,36153,0,Cash on Delivery,4.0,1
+893,2024-09-11,265,Kolkata,Electronics,Tablet,4,8355,10,Credit Card,5.0,0
+894,2024-06-21,217,Bangalore,Sports,Football,4,17680,10,UPI,2.0,0
+895,2024-04-24,181,Delhi,Home,Cookware,4,16092,5,Cash on Delivery,3.0,0
+896,2024-08-10,177,Mumbai,Home,Lamp,2,1086,0,Credit Card,3.0,0
+897,2024-09-21,263,Hyderabad,Electronics,Laptop,2,20110,15,Cash on Delivery,,0
+898,2024-07-14,25,Mumbai,Clothing,T-Shirt,5,14441,0,UPI,2.0,0
+899,2024-05-01,134,Mumbai,Sports,Cricket Bat,2,7667,20,Cash on Delivery,4.0,0
+900,2024-10-27,90,Bangalore,Clothing,T-Shirt,1,42617,10,Credit Card,,0
+901,2024-07-28,68,Bangalore,Clothing,Jacket,2,49752,15,Cash on Delivery,5.0,0
+902,2023-10-13,49,Pune,Electronics,Headphones,2,49849,15,Cash on Delivery,4.0,1
+903,2023-10-09,149,Kolkata,Sports,Gym Gloves,1,15416,5,Debit Card,4.0,0
+904,2023-03-28,79,Hyderabad,Electronics,Smartwatch,2,27669,0,Credit Card,5.0,0
+905,2023-10-03,187,Mumbai,Home,Chair,4,39341,15,Credit Card,,0
+906,2023-03-19,272,Mumbai,Sports,Cricket Bat,4,7789,15,Cash on Delivery,3.0,0
+907,2023-07-11,278,Delhi,Sports,Tennis Racket,5,25113,20,Debit Card,2.0,0
+908,2023-02-20,71,Pune,Electronics,Smartphone,3,30729,20,UPI,3.0,0
+909,2023-12-23,135,Pune,Electronics,Headphones,3,47968,10,Cash on Delivery,3.0,0
+910,2024-06-18,181,Bangalore,Clothing,Shoes,3,12965,20,Cash on Delivery,5.0,0
+911,2023-06-03,149,Kolkata,Sports,Yoga Mat,3,22769,0,Cash on Delivery,1.0,0
+912,2024-06-30,119,Mumbai,Clothing,Dress,2,49923,20,UPI,,0
+913,2023-04-29,238,Chennai,Sports,Cricket Bat,2,20407,15,Credit Card,2.0,0
+914,2024-05-30,106,Delhi,Electronics,Tablet,2,2236,0,Credit Card,5.0,0
+915,2024-10-03,12,Delhi,Clothing,Jeans,4,2544,10,UPI,1.0,0
+916,2023-01-02,8,Kolkata,Sports,Cricket Bat,5,27818,15,Cash on Delivery,2.0,0
+917,2024-04-13,212,Pune,Clothing,Jeans,5,1039,5,Debit Card,4.0,0
+918,2024-10-22,236,Bangalore,Home,Mixer,4,10792,5,Cash on Delivery,2.0,0
+919,2023-05-09,294,Mumbai,Sports,Yoga Mat,4,31235,0,Debit Card,,0
+920,2024-01-25,145,Pune,Sports,Cricket Bat,4,39029,5,Cash on Delivery,3.0,0
+921,2023-09-05,70,Delhi,Electronics,Tablet,3,48547,20,Credit Card,5.0,0
+922,2023-12-18,298,Chennai,Electronics,Laptop,1,48870,5,UPI,3.0,0
+923,2024-06-27,234,Mumbai,Home,Table,1,40415,5,Cash on Delivery,2.0,0
+924,2023-08-20,287,Kolkata,Home,Chair,2,39268,15,Cash on Delivery,1.0,0
+925,2023-08-17,226,Delhi,Sports,Cricket Bat,2,31706,0,Debit Card,4.0,0
+926,2024-09-13,254,Chennai,Sports,Football,2,23848,5,Cash on Delivery,5.0,0
+927,2023-06-26,139,Mumbai,Electronics,Tablet,5,31925,15,Credit Card,2.0,1
+928,2024-08-23,42,Mumbai,Electronics,Tablet,4,46540,20,Debit Card,3.0,0
+929,2023-11-06,208,Pune,Electronics,Headphones,3,9445,10,Debit Card,1.0,0
+930,2024-06-13,57,Pune,Home,Lamp,2,47200,0,Cash on Delivery,5.0,0
+931,2023-09-16,90,Delhi,Electronics,Smartphone,5,26238,20,Debit Card,3.0,0
+932,2024-10-29,82,Mumbai,Sports,Tennis Racket,4,27894,15,Cash on Delivery,5.0,0
+933,2023-10-09,88,Hyderabad,Electronics,Smartphone,4,13869,20,Credit Card,4.0,0
+934,2024-02-01,5,Pune,Sports,Gym Gloves,4,25204,20,Debit Card,3.0,0
+935,2024-01-01,178,Pune,Electronics,Smartwatch,5,21972,20,Credit Card,2.0,0
+936,2023-09-12,143,Kolkata,Electronics,Headphones,4,29387,10,Cash on Delivery,4.0,0
+937,2024-09-11,26,Chennai,Clothing,Shoes,1,29871,10,UPI,5.0,0
+938,2023-08-25,219,Pune,Clothing,Jeans,5,22656,20,Credit Card,5.0,0
+939,2024-09-07,159,Bangalore,Electronics,Smartphone,5,41514,15,Cash on Delivery,5.0,0
+940,2023-12-23,256,Kolkata,Electronics,Headphones,4,41143,5,Credit Card,1.0,0
+941,2024-11-24,284,Pune,Home,Lamp,4,4208,15,Cash on Delivery,3.0,0
+942,2023-12-31,58,Kolkata,Sports,Cricket Bat,2,18552,5,UPI,,0
+943,2023-03-12,56,Hyderabad,Clothing,Jacket,4,34272,0,Cash on Delivery,1.0,0
+944,2024-10-16,166,Chennai,Clothing,Dress,3,47062,0,Debit Card,5.0,0
+945,2023-10-08,215,Pune,Home,Cookware,3,5815,15,Debit Card,4.0,0
+946,2024-07-26,146,Bangalore,Electronics,Headphones,5,27886,0,Cash on Delivery,3.0,1
+947,2023-04-15,260,Pune,Electronics,Smartphone,1,12578,5,Credit Card,5.0,0
+948,2024-11-12,76,Kolkata,Clothing,Jeans,5,25309,15,Credit Card,4.0,0
+949,2024-01-03,251,Chennai,Home,Chair,2,24018,5,UPI,3.0,0
+950,2024-07-14,294,Delhi,Electronics,Tablet,2,49185,5,Credit Card,,0
+951,2023-07-18,215,Mumbai,Electronics,Smartphone,3,46324,15,Debit Card,2.0,1
+952,2024-11-19,80,Hyderabad,Home,Chair,3,38998,5,Debit Card,1.0,0
+953,2024-02-24,195,Delhi,Sports,Tennis Racket,3,40687,15,Cash on Delivery,,0
+954,2024-08-10,196,Pune,Home,Table,2,38823,0,Cash on Delivery,4.0,0
+955,2024-06-11,165,Chennai,Electronics,Laptop,5,44415,15,Debit Card,5.0,0
+956,2024-02-07,45,Kolkata,Home,Lamp,2,26960,20,UPI,2.0,0
+957,2023-01-19,300,Mumbai,Sports,Cricket Bat,4,33935,15,Debit Card,1.0,0
+958,2023-02-24,266,Mumbai,Home,Lamp,4,14317,20,Debit Card,2.0,0
+959,2024-06-05,128,Chennai,Clothing,Jeans,5,45221,5,Credit Card,3.0,0
+960,2023-01-30,213,Hyderabad,Electronics,Smartwatch,1,17564,20,Debit Card,1.0,0
+961,2024-07-27,296,Kolkata,Clothing,T-Shirt,5,36197,0,Cash on Delivery,,0
+962,2024-11-03,141,Hyderabad,Home,Lamp,3,36623,5,Cash on Delivery,,0
+963,2024-01-13,108,Chennai,Sports,Cricket Bat,5,3926,0,Credit Card,2.0,0
+964,2023-08-07,21,Kolkata,Home,Cookware,1,13682,5,Cash on Delivery,4.0,1
+965,2023-06-05,5,Mumbai,Home,Table,4,21695,0,Credit Card,5.0,0
+966,2024-01-19,193,Bangalore,Clothing,Jacket,1,6024,10,Cash on Delivery,5.0,0
+967,2024-07-05,153,Kolkata,Clothing,Jacket,5,40462,0,Credit Card,5.0,0
+968,2023-04-19,184,Delhi,Home,Mixer,4,22239,15,Debit Card,,0
+969,2024-05-23,275,Hyderabad,Clothing,Jacket,5,38684,0,Debit Card,3.0,0
+970,2023-11-25,17,Chennai,Home,Lamp,2,31061,10,Debit Card,3.0,0
+971,2024-02-27,246,Hyderabad,Sports,Cricket Bat,4,46398,0,UPI,3.0,0
+972,2024-01-23,197,Delhi,Electronics,Tablet,4,39635,20,UPI,,0
+973,2023-05-26,57,Mumbai,Sports,Yoga Mat,5,41566,20,Cash on Delivery,3.0,0
+974,2024-09-02,279,Delhi,Electronics,Smartphone,1,37961,10,Credit Card,1.0,0
+975,2024-11-30,214,Chennai,Home,Chair,4,28212,15,Cash on Delivery,3.0,0
+976,2024-03-08,109,Pune,Clothing,Jacket,4,36460,20,Credit Card,1.0,0
+977,2023-05-26,27,Mumbai,Electronics,Tablet,3,34918,15,Credit Card,4.0,0
+978,2024-03-03,72,Bangalore,Home,Mixer,1,34056,5,Cash on Delivery,,1
+979,2024-02-06,38,Pune,Home,Cookware,2,16498,15,Credit Card,3.0,0
+980,2024-06-30,82,Pune,Clothing,Dress,3,31513,10,UPI,5.0,0
+981,2024-02-13,204,Hyderabad,Clothing,Shoes,4,6610,15,Cash on Delivery,2.0,0
+982,2024-04-07,88,Hyderabad,Sports,Gym Gloves,4,13480,15,Cash on Delivery,1.0,0
+983,2024-09-09,133,Chennai,Electronics,Laptop,1,5770,15,Credit Card,4.0,0
+984,2024-03-25,74,Mumbai,Home,Mixer,4,21687,5,Credit Card,,0
+985,2024-04-23,252,Kolkata,Electronics,Laptop,1,38383,0,Credit Card,3.0,0
+986,2024-04-30,45,Mumbai,Clothing,Jacket,2,33777,5,Credit Card,2.0,0
+987,2023-12-23,3,Chennai,Electronics,Tablet,2,35671,5,Debit Card,,0
+988,2023-11-28,93,Pune,Clothing,T-Shirt,3,14190,20,UPI,1.0,0
+989,2023-08-19,88,Hyderabad,Home,Lamp,2,11567,5,Debit Card,1.0,0
+990,2023-10-04,24,Mumbai,Sports,Football,3,49776,5,Cash on Delivery,,1
+991,2023-11-20,168,Delhi,Home,Cookware,3,46862,10,Cash on Delivery,,0
+992,2023-11-20,141,Delhi,Electronics,Smartphone,4,45828,20,Credit Card,3.0,0
+993,2024-08-11,180,Chennai,Clothing,T-Shirt,4,33422,0,Credit Card,2.0,0
+994,2024-06-17,107,Kolkata,Electronics,Headphones,3,28966,5,UPI,3.0,0
+995,2023-03-25,103,Pune,Sports,Tennis Racket,2,19127,20,UPI,5.0,0
+996,2023-04-30,57,Kolkata,Electronics,Laptop,5,7735,20,UPI,,0
+997,2024-05-31,218,Hyderabad,Electronics,Laptop,5,5966,10,Cash on Delivery,3.0,0
+998,2023-04-26,162,Chennai,Sports,Cricket Bat,5,26805,5,Debit Card,3.0,0
+999,2023-03-07,70,Delhi,Sports,Football,3,15896,20,UPI,1.0,0
+1000,2024-04-08,199,Kolkata,Home,Chair,4,43748,5,UPI,1.0,0
+1001,2023-03-11,166,Chennai,Home,Table,5,4290,10,Credit Card,2.0,0
+1002,2024-01-04,72,Chennai,Sports,Cricket Bat,4,20090,15,UPI,5.0,0
+1003,2023-08-27,133,Pune,Home,Mixer,1,20545,5,UPI,2.0,0
+1004,2024-04-23,138,Chennai,Sports,Football,5,14416,10,Credit Card,2.0,0
+1005,2023-01-16,163,Delhi,Home,Table,4,24962,0,Debit Card,2.0,0
+1006,2024-01-10,92,Delhi,Sports,Tennis Racket,5,27604,10,UPI,5.0,0
+1007,2023-11-10,128,Kolkata,Sports,Football,4,8259,20,Cash on Delivery,2.0,0
+1008,2024-04-15,226,Bangalore,Home,Cookware,3,11089,20,UPI,5.0,0
+1009,2024-07-29,182,Pune,Electronics,Laptop,2,47963,10,Cash on Delivery,5.0,0
+1010,2023-03-05,29,Pune,Clothing,T-Shirt,4,48297,10,UPI,4.0,0
+1011,2023-01-21,39,Kolkata,Electronics,Headphones,2,38390,10,Credit Card,,1
+1012,2023-04-21,123,Mumbai,Sports,Tennis Racket,3,48591,10,Cash on Delivery,1.0,0
+1013,2024-09-06,281,Pune,Electronics,Laptop,3,43978,15,Credit Card,3.0,0
+1014,2023-07-29,126,Mumbai,Electronics,Headphones,3,11242,10,Debit Card,4.0,0
+1015,2023-09-15,188,Bangalore,Sports,Cricket Bat,2,9072,0,UPI,,1
+1016,2024-11-06,85,Kolkata,Electronics,Smartphone,2,36253,15,Credit Card,1.0,0
+1017,2024-01-24,218,Hyderabad,Home,Lamp,1,49838,5,Debit Card,5.0,0
+1018,2023-01-26,72,Pune,Electronics,Headphones,2,24081,15,Debit Card,5.0,0
+1019,2024-10-17,259,Hyderabad,Clothing,T-Shirt,3,23483,0,Cash on Delivery,4.0,0
+1020,2023-05-29,155,Pune,Sports,Tennis Racket,5,9379,10,Cash on Delivery,,0
+1021,2024-03-31,264,Kolkata,Sports,Gym Gloves,3,21137,0,Credit Card,1.0,0
+1022,2024-03-23,248,Kolkata,Electronics,Smartphone,5,8691,10,UPI,4.0,0
+1023,2023-09-28,94,Hyderabad,Clothing,T-Shirt,2,13860,20,Cash on Delivery,2.0,0
+1024,2023-12-08,232,Chennai,Sports,Football,4,24216,20,Cash on Delivery,5.0,0
+1025,2023-08-13,73,Bangalore,Home,Table,4,39643,20,Credit Card,1.0,0
+1026,2023-08-08,215,Bangalore,Sports,Gym Gloves,5,18248,10,Cash on Delivery,5.0,0
+1027,2023-10-10,58,Bangalore,Sports,Cricket Bat,2,13263,0,Debit Card,,0
+1028,2023-05-09,87,Kolkata,Home,Mixer,1,14496,10,Credit Card,2.0,0
+1029,2023-01-06,125,Chennai,Home,Table,1,13736,10,UPI,2.0,0
+1030,2023-03-23,87,Hyderabad,Sports,Football,2,25701,5,Debit Card,2.0,0
+1031,2024-07-30,209,Pune,Sports,Football,5,27327,15,UPI,3.0,1
+1032,2024-05-09,259,Chennai,Electronics,Smartphone,4,13336,0,Cash on Delivery,,0
+1033,2024-03-24,24,Bangalore,Sports,Football,4,41157,20,Cash on Delivery,2.0,0
+1034,2023-08-31,207,Mumbai,Home,Cookware,4,34575,10,Debit Card,1.0,0
+1035,2023-04-25,68,Delhi,Electronics,Smartwatch,1,24698,5,Cash on Delivery,3.0,1
+1036,2024-04-26,103,Bangalore,Sports,Football,5,19125,10,Cash on Delivery,1.0,0
+1037,2023-01-07,49,Hyderabad,Sports,Yoga Mat,3,46418,10,UPI,2.0,0
+1038,2023-10-03,117,Mumbai,Sports,Gym Gloves,2,13588,15,UPI,4.0,0
+1039,2023-04-22,286,Bangalore,Sports,Cricket Bat,5,19943,10,Cash on Delivery,,0
+1040,2024-07-30,128,Chennai,Sports,Cricket Bat,1,2149,10,UPI,3.0,0
+1041,2023-12-23,181,Chennai,Electronics,Smartwatch,3,1432,15,Debit Card,4.0,0
+1042,2024-04-10,169,Mumbai,Clothing,Dress,4,11231,20,Debit Card,2.0,0
+1043,2024-09-06,47,Pune,Electronics,Smartphone,5,46991,15,Cash on Delivery,5.0,0
+1044,2023-03-14,49,Pune,Home,Table,5,30183,10,Cash on Delivery,5.0,0
+1045,2024-05-09,2,Bangalore,Home,Chair,3,21902,5,UPI,3.0,0
+1046,2024-10-17,140,Mumbai,Clothing,T-Shirt,3,40464,5,Debit Card,5.0,0
+1047,2023-12-03,106,Chennai,Home,Table,4,30862,20,Debit Card,2.0,1
+1048,2024-10-10,100,Delhi,Electronics,Laptop,5,13400,5,Cash on Delivery,2.0,0
+1049,2023-04-24,143,Bangalore,Clothing,Dress,1,42312,20,Debit Card,,0
+1050,2023-09-17,82,Bangalore,Clothing,Jeans,5,14970,20,Cash on Delivery,2.0,0
+1051,2023-09-27,114,Pune,Clothing,Dress,4,1019,10,Credit Card,,0
+1052,2023-09-12,20,Pune,Home,Mixer,5,29845,5,Cash on Delivery,2.0,0
+1053,2024-04-06,92,Bangalore,Electronics,Smartwatch,1,23825,20,Cash on Delivery,4.0,1
+1054,2024-01-09,69,Chennai,Sports,Yoga Mat,4,7565,15,Credit Card,5.0,1
+1055,2023-07-23,29,Chennai,Sports,Cricket Bat,1,21358,5,UPI,3.0,0
+1056,2024-01-21,62,Hyderabad,Sports,Yoga Mat,5,12361,0,Credit Card,3.0,0
+1057,2023-10-27,163,Bangalore,Clothing,Jeans,1,45022,20,Cash on Delivery,1.0,0
+1058,2023-02-16,130,Hyderabad,Home,Table,1,25047,15,Cash on Delivery,2.0,0
+1059,2023-11-26,256,Hyderabad,Clothing,Jacket,5,41317,5,Debit Card,3.0,0
+1060,2024-02-01,3,Pune,Home,Chair,2,15632,10,Credit Card,2.0,0
+1061,2024-11-28,298,Chennai,Clothing,Dress,5,17494,15,Debit Card,4.0,0
+1062,2024-10-19,85,Kolkata,Home,Table,2,11062,5,Credit Card,4.0,0
+1063,2024-05-05,255,Chennai,Clothing,Jeans,4,40934,5,Debit Card,5.0,0
+1064,2023-04-25,276,Kolkata,Home,Cookware,2,21604,0,Credit Card,1.0,0
+1065,2024-07-05,26,Pune,Home,Mixer,3,7162,10,Debit Card,3.0,0
+1066,2023-06-16,188,Chennai,Sports,Yoga Mat,2,7125,20,Cash on Delivery,1.0,0
+1067,2024-01-02,16,Pune,Home,Chair,5,47358,0,UPI,2.0,0
+1068,2024-11-19,282,Hyderabad,Electronics,Laptop,5,43413,15,Credit Card,5.0,0
+1069,2024-09-10,279,Delhi,Electronics,Laptop,5,44743,0,Debit Card,1.0,0
+1070,2023-05-24,205,Kolkata,Clothing,Jacket,2,12704,5,Debit Card,1.0,0
+1071,2024-01-04,134,Kolkata,Clothing,T-Shirt,1,43729,5,Debit Card,,1
+1072,2024-02-29,72,Bangalore,Clothing,Shoes,2,44547,5,Debit Card,4.0,0
+1073,2024-10-13,99,Chennai,Sports,Cricket Bat,5,19941,5,Credit Card,,0
+1074,2023-08-21,183,Chennai,Sports,Football,2,17284,20,Debit Card,3.0,0
+1075,2023-08-14,51,Hyderabad,Electronics,Tablet,4,25773,0,Cash on Delivery,2.0,0
+1076,2024-03-07,192,Bangalore,Home,Table,3,11171,10,UPI,1.0,0
+1077,2024-01-07,133,Chennai,Home,Cookware,2,5010,0,Cash on Delivery,3.0,0
+1078,2024-08-26,63,Pune,Clothing,Jacket,4,20908,10,Credit Card,5.0,0
+1079,2023-10-20,173,Hyderabad,Clothing,Jacket,5,11860,5,Credit Card,3.0,0
+1080,2023-06-23,29,Delhi,Electronics,Smartphone,3,10018,5,UPI,3.0,0
+1081,2023-10-26,208,Hyderabad,Sports,Cricket Bat,4,45706,5,Debit Card,2.0,0
+1082,2023-06-15,31,Delhi,Home,Cookware,3,25645,5,Debit Card,3.0,0
+1083,2023-10-31,294,Hyderabad,Electronics,Headphones,5,12331,0,Credit Card,5.0,0
+1084,2024-01-14,198,Mumbai,Electronics,Smartphone,5,37446,5,UPI,4.0,0
+1085,2024-11-10,244,Pune,Home,Chair,5,1340,10,Debit Card,3.0,0
+1086,2024-01-28,85,Chennai,Electronics,Headphones,4,5357,20,Credit Card,3.0,0
+1087,2024-11-03,94,Bangalore,Clothing,Shoes,3,29980,5,Credit Card,,0
+1088,2023-12-09,130,Chennai,Sports,Yoga Mat,4,8423,10,Cash on Delivery,1.0,0
+1089,2024-06-16,58,Delhi,Electronics,Headphones,2,33938,20,Credit Card,5.0,1
+1090,2023-02-07,148,Mumbai,Home,Lamp,5,30015,20,Debit Card,2.0,0
+1091,2023-11-19,225,Chennai,Clothing,Shoes,1,9541,0,Cash on Delivery,1.0,0
+1092,2024-07-13,291,Kolkata,Electronics,Laptop,5,31934,15,Debit Card,4.0,0
+1093,2024-11-27,175,Kolkata,Sports,Football,2,8257,20,Credit Card,,0
+1094,2024-04-16,104,Hyderabad,Electronics,Headphones,5,11007,20,UPI,,0
+1095,2023-01-16,205,Chennai,Sports,Tennis Racket,2,511,15,Debit Card,5.0,0
+1096,2024-10-10,178,Pune,Electronics,Smartwatch,1,42201,15,Debit Card,5.0,1
+1097,2023-11-21,214,Bangalore,Sports,Gym Gloves,2,34618,15,Debit Card,1.0,0
+1098,2024-05-30,90,Chennai,Clothing,Jacket,2,5724,5,UPI,5.0,0
+1099,2024-06-24,151,Pune,Electronics,Smartphone,3,9515,5,UPI,5.0,0
+1100,2024-02-05,279,Kolkata,Electronics,Smartphone,1,49228,0,Credit Card,1.0,0
+1101,2023-06-07,275,Delhi,Sports,Cricket Bat,2,5000,15,Cash on Delivery,5.0,0
+1102,2024-05-02,18,Bangalore,Electronics,Smartphone,5,2813,0,Cash on Delivery,1.0,0
+1103,2024-06-14,219,Bangalore,Home,Mixer,5,10465,0,UPI,,0
+1104,2023-07-21,11,Pune,Electronics,Smartphone,5,27469,15,Debit Card,3.0,0
+1105,2024-08-14,7,Pune,Electronics,Smartwatch,5,43048,0,Credit Card,3.0,0
+1106,2023-01-21,178,Hyderabad,Home,Chair,4,3150,0,Cash on Delivery,3.0,0
+1107,2023-05-14,283,Mumbai,Sports,Gym Gloves,1,9803,0,UPI,4.0,0
+1108,2023-09-16,103,Chennai,Sports,Cricket Bat,1,28551,20,UPI,1.0,0
+1109,2023-08-14,237,Bangalore,Electronics,Smartwatch,5,34289,20,UPI,2.0,0
+1110,2024-06-26,285,Bangalore,Home,Table,2,36321,5,Debit Card,2.0,0
+1111,2024-05-16,25,Bangalore,Home,Table,4,3813,20,Debit Card,3.0,1
+1112,2023-05-17,227,Hyderabad,Sports,Gym Gloves,2,27984,5,UPI,4.0,0
+1113,2023-08-23,267,Chennai,Sports,Football,3,38089,20,Credit Card,1.0,0
+1114,2024-01-31,15,Pune,Clothing,Dress,4,13186,10,Debit Card,3.0,0
+1115,2023-12-30,130,Kolkata,Clothing,Jacket,5,18333,10,Debit Card,4.0,0
+1116,2024-08-24,194,Pune,Electronics,Smartwatch,4,48221,10,Credit Card,3.0,0
+1117,2024-03-14,50,Bangalore,Electronics,Laptop,3,11792,5,Cash on Delivery,,0
+1118,2024-01-30,191,Delhi,Electronics,Headphones,3,9396,10,Debit Card,4.0,0
+1119,2023-03-16,295,Kolkata,Clothing,Dress,5,42194,15,Credit Card,1.0,0
+1120,2024-11-30,151,Delhi,Clothing,Jeans,3,38398,20,Debit Card,5.0,0
+1121,2024-09-24,101,Delhi,Clothing,T-Shirt,4,26867,0,UPI,5.0,0
+1122,2024-05-26,43,Bangalore,Sports,Yoga Mat,1,23795,10,Debit Card,2.0,0
+1123,2023-01-12,237,Bangalore,Electronics,Headphones,3,37559,15,Credit Card,2.0,0
+1124,2024-10-15,158,Mumbai,Sports,Tennis Racket,5,18556,15,Credit Card,1.0,0
+1125,2023-08-17,280,Mumbai,Clothing,T-Shirt,3,38531,10,UPI,,0
+1126,2023-10-01,44,Hyderabad,Clothing,Jacket,3,3585,0,Cash on Delivery,4.0,0
+1127,2024-11-04,234,Kolkata,Home,Table,4,44307,15,Debit Card,3.0,0
+1128,2023-07-25,220,Chennai,Clothing,Shoes,2,10918,5,Debit Card,2.0,0
+1129,2023-09-18,286,Delhi,Home,Chair,5,7942,15,UPI,2.0,0
+1130,2023-07-09,53,Pune,Home,Cookware,2,19762,15,Credit Card,2.0,1
+1131,2023-01-07,230,Pune,Sports,Tennis Racket,2,44443,0,Debit Card,4.0,0
+1132,2024-08-17,240,Hyderabad,Clothing,Jacket,4,46357,5,Cash on Delivery,4.0,0
+1133,2024-03-30,290,Pune,Sports,Tennis Racket,3,32514,20,Debit Card,2.0,0
+1134,2023-02-10,173,Bangalore,Sports,Yoga Mat,1,42398,5,Credit Card,2.0,0
+1135,2024-09-07,74,Pune,Electronics,Headphones,4,16062,10,Credit Card,4.0,0
+1136,2024-01-29,286,Kolkata,Clothing,Jacket,4,33280,10,UPI,,0
+1137,2024-03-07,258,Pune,Electronics,Laptop,1,14077,10,UPI,4.0,1
+1138,2023-08-09,222,Delhi,Sports,Yoga Mat,3,23590,15,UPI,2.0,1
+1139,2023-08-24,183,Chennai,Home,Table,2,46728,0,Cash on Delivery,5.0,0
+1140,2023-05-07,104,Hyderabad,Clothing,Jacket,1,29594,15,Credit Card,5.0,0
+1141,2024-05-14,289,Hyderabad,Home,Cookware,3,23084,10,UPI,,0
+1142,2023-10-25,98,Chennai,Sports,Tennis Racket,5,13372,0,UPI,1.0,0
+1143,2023-11-06,84,Kolkata,Clothing,Shoes,3,2077,20,Credit Card,2.0,0
+1144,2023-10-29,278,Delhi,Clothing,Dress,4,41961,5,Credit Card,3.0,0
+1145,2023-10-29,38,Mumbai,Clothing,Dress,3,35790,0,UPI,,0
+1146,2023-03-20,236,Delhi,Clothing,Dress,4,2131,5,UPI,1.0,0
+1147,2024-03-19,113,Delhi,Home,Lamp,4,11272,0,UPI,5.0,0
+1148,2023-04-25,121,Pune,Clothing,Shoes,2,22000,5,Debit Card,5.0,0
+1149,2024-01-04,233,Hyderabad,Sports,Gym Gloves,1,31321,5,UPI,3.0,0
+1150,2023-06-26,217,Bangalore,Electronics,Headphones,2,25796,0,Debit Card,3.0,0
+1151,2023-08-06,206,Chennai,Home,Table,4,36690,20,Credit Card,1.0,0
+1152,2023-06-29,235,Mumbai,Sports,Gym Gloves,4,42057,15,UPI,4.0,0
+1153,2024-07-23,93,Delhi,Home,Chair,5,42102,0,Cash on Delivery,3.0,0
+1154,2024-07-27,240,Hyderabad,Home,Lamp,3,4962,5,Cash on Delivery,2.0,0
+1155,2023-11-29,292,Delhi,Electronics,Smartwatch,1,12941,20,Cash on Delivery,1.0,0
+1156,2024-02-19,93,Bangalore,Clothing,Jeans,1,6573,20,Debit Card,2.0,0
+1157,2023-10-03,170,Delhi,Clothing,Jeans,3,41482,0,Credit Card,4.0,0
+1158,2024-09-12,31,Kolkata,Home,Table,3,18040,20,UPI,5.0,1
+1159,2024-10-29,299,Pune,Clothing,Dress,3,42672,20,Debit Card,1.0,0
+1160,2024-11-09,37,Kolkata,Electronics,Tablet,3,45417,20,Cash on Delivery,2.0,0
+1161,2023-10-16,298,Chennai,Sports,Football,1,17759,10,Credit Card,4.0,0
+1162,2023-12-28,64,Delhi,Sports,Cricket Bat,3,7195,15,UPI,3.0,0
+1163,2023-07-27,19,Chennai,Clothing,Shoes,2,39231,0,Credit Card,,0
+1164,2024-08-24,300,Bangalore,Clothing,Shoes,5,5012,15,Credit Card,4.0,0
+1165,2024-11-18,96,Mumbai,Electronics,Smartphone,1,22906,0,Credit Card,1.0,0
+1166,2023-04-26,163,Chennai,Sports,Yoga Mat,2,25111,10,UPI,2.0,0
+1167,2023-04-06,244,Delhi,Home,Mixer,1,41469,0,Cash on Delivery,,0
+1168,2024-05-15,92,Delhi,Sports,Gym Gloves,2,49060,15,Credit Card,,0
+1169,2024-11-29,221,Delhi,Sports,Yoga Mat,5,48052,5,Credit Card,,0
+1170,2023-11-30,39,Kolkata,Home,Cookware,3,3135,10,Debit Card,5.0,0
+1171,2024-09-26,54,Chennai,Sports,Yoga Mat,3,2209,0,UPI,4.0,0
+1172,2024-10-04,212,Hyderabad,Clothing,Dress,2,19745,0,Credit Card,2.0,1
+1173,2024-05-26,45,Delhi,Electronics,Laptop,4,9318,5,Cash on Delivery,4.0,0
+1174,2024-11-02,267,Bangalore,Clothing,Shoes,3,18908,15,Credit Card,,0
+1175,2023-12-23,145,Chennai,Sports,Yoga Mat,1,17370,5,UPI,,0
+1176,2023-06-30,83,Hyderabad,Electronics,Laptop,3,21102,5,Credit Card,,0
+1177,2023-10-22,177,Chennai,Electronics,Tablet,2,3039,10,Cash on Delivery,1.0,0
+1178,2023-02-18,164,Kolkata,Home,Mixer,2,29810,0,Cash on Delivery,5.0,0
+1179,2023-07-28,93,Pune,Clothing,Dress,1,30898,5,Cash on Delivery,,0
+1180,2023-01-12,35,Pune,Home,Table,2,22838,0,UPI,4.0,0
+1181,2023-08-17,80,Mumbai,Sports,Football,1,11192,10,Cash on Delivery,1.0,0
+1182,2023-05-08,190,Mumbai,Clothing,T-Shirt,3,45002,20,Cash on Delivery,5.0,0
+1183,2023-07-15,29,Bangalore,Home,Cookware,1,31094,5,UPI,2.0,1
+1184,2024-02-09,124,Bangalore,Electronics,Smartwatch,5,23632,0,Cash on Delivery,3.0,0
+1185,2023-10-24,203,Hyderabad,Clothing,Jacket,5,6672,5,Debit Card,,0
+1186,2023-11-22,157,Hyderabad,Electronics,Smartphone,1,33682,10,Debit Card,3.0,0
+1187,2023-06-14,61,Hyderabad,Home,Table,3,34789,0,Debit Card,4.0,0
+1188,2023-05-07,193,Pune,Home,Chair,1,46532,0,Credit Card,3.0,0
+1189,2024-04-25,52,Pune,Sports,Yoga Mat,2,16775,10,Cash on Delivery,3.0,0
+1190,2024-10-18,86,Chennai,Clothing,Jacket,3,14050,20,Cash on Delivery,5.0,0
+1191,2023-01-06,149,Chennai,Home,Lamp,5,28719,15,Debit Card,5.0,0
+1192,2023-06-10,270,Pune,Sports,Football,1,965,15,UPI,4.0,0
+1193,2024-06-03,275,Pune,Clothing,Dress,4,37576,15,Credit Card,1.0,1
+1194,2024-10-23,46,Chennai,Electronics,Smartphone,4,19957,5,Cash on Delivery,1.0,0
+1195,2024-02-15,152,Chennai,Home,Table,1,29701,20,UPI,3.0,0
+1196,2024-07-13,191,Kolkata,Clothing,Dress,1,26505,10,UPI,,0
+1197,2024-02-05,296,Hyderabad,Electronics,Smartphone,4,45832,10,Cash on Delivery,1.0,0
+1198,2024-09-24,226,Mumbai,Electronics,Laptop,4,37366,0,Credit Card,2.0,0
+1199,2023-08-04,43,Chennai,Home,Mixer,4,39665,15,UPI,3.0,0
+1200,2024-01-25,22,Chennai,Sports,Gym Gloves,5,41393,0,Debit Card,1.0,0
